@@ -1,0 +1,30 @@
+{
+  "id": "pixar-deep-cuts",
+  "title": "Pixar Deep Cuts",
+  "description": "Easter eggs, hidden references, and voice cast trivia.",
+  "category": "pixar",
+  "difficulty": "hard",
+  "source": "manual",
+  "questions": [
+    { "id": "pdc-001", "prompt": "What alphanumeric code appears as an Easter egg in every Pixar film?", "answer": "A113" },
+    { "id": "pdc-002", "prompt": "Who voiced Woody in the Toy Story films?", "answer": "Tom Hanks" },
+    { "id": "pdc-003", "prompt": "Who voiced Buzz Lightyear in the original Toy Story?", "answer": "Tim Allen" },
+    { "id": "pdc-004", "prompt": "What is the name of Carl's deceased wife in Up?", "answer": "Ellie" },
+    { "id": "pdc-005", "prompt": "What breed of dog is Dug in Up?", "answer": "Golden Retriever" },
+    { "id": "pdc-006", "prompt": "Where does Carl dream of taking his house in Up?", "answer": "Paradise Falls" },
+    { "id": "pdc-007", "prompt": "What is Boo's real name in Monsters, Inc.?", "answer": "Mary" },
+    { "id": "pdc-008", "prompt": "What kind of fish is Dory in Finding Nemo?", "answer": "Pacific Regal Blue Tang", "accepted": ["blue tang", "regal blue tang", "tang"] },
+    { "id": "pdc-009", "prompt": "What is the dentist's office address in Finding Nemo?", "answer": "P. Sherman, 42 Wallaby Way, Sydney", "accepted": ["42 wallaby way", "42 wallaby way sydney"] },
+    { "id": "pdc-010", "prompt": "What is the rat's name in Ratatouille?", "answer": "Remy" },
+    { "id": "pdc-011", "prompt": "Who is the food critic in Ratatouille?", "answer": "Anton Ego" },
+    { "id": "pdc-012", "prompt": "What does WALL-E stand for?", "answer": "Waste Allocation Load Lifter: Earth-class" },
+    { "id": "pdc-013", "prompt": "What is Mr. Incredible's real name?", "answer": "Bob Parr" },
+    { "id": "pdc-014", "prompt": "What are the five core emotions in Inside Out?", "answer": "Joy, Sadness, Anger, Fear, Disgust" },
+    { "id": "pdc-015", "prompt": "Which Pixar film was the first feature-length computer-animated movie?", "answer": "Toy Story" },
+    { "id": "pdc-016", "prompt": "What city does Lightning McQueen get stranded in during Cars?", "answer": "Radiator Springs" },
+    { "id": "pdc-017", "prompt": "What is the name of Sully's best friend in Monsters, Inc.?", "answer": "Mike Wazowski" },
+    { "id": "pdc-018", "prompt": "What is the name of Andy's dog in Toy Story?", "answer": "Buster" },
+    { "id": "pdc-019", "prompt": "Which Pixar film features a chef named Linguini?", "answer": "Ratatouille" },
+    { "id": "pdc-020", "prompt": "What Pixar short film featured a desk lamp that became their logo?", "answer": "Luxo Jr." }
+  ]
+}

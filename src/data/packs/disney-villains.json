@@ -1,0 +1,118 @@
+{
+  "id": "disney-villains",
+  "title": "Disney Villains",
+  "description": "The bad guys — names, sidekicks, voice cast.",
+  "category": "animated",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "dv-001",
+      "prompt": "Who is the sea witch villain in The Little Mermaid?",
+      "answer": "Ursula"
+    },
+    {
+      "id": "dv-002",
+      "prompt": "Who voiced Scar in The Lion King (1994)?",
+      "answer": "Jeremy Irons"
+    },
+    {
+      "id": "dv-003",
+      "prompt": "What is the name of Maleficent's pet raven?",
+      "answer": "Diablo"
+    },
+    {
+      "id": "dv-004",
+      "prompt": "What is the villain's full name in 101 Dalmatians?",
+      "answer": "Cruella de Vil"
+    },
+    {
+      "id": "dv-005",
+      "prompt": "Who is the villain in Sleeping Beauty?",
+      "answer": "Maleficent"
+    },
+    {
+      "id": "dv-006",
+      "prompt": "Who is Jafar's wisecracking parrot in Aladdin?",
+      "answer": "Iago"
+    },
+    {
+      "id": "dv-007",
+      "prompt": "Who is the villain in Tangled?",
+      "answer": "Mother Gothel"
+    },
+    {
+      "id": "dv-008",
+      "prompt": "What is Captain Hook's first name in Peter Pan?",
+      "answer": "James"
+    },
+    {
+      "id": "dv-009",
+      "prompt": "Who is the shadow-summoning villain in The Princess and the Frog?",
+      "answer": "Dr. Facilier",
+      "accepted": [
+        "shadow man",
+        "the shadow man"
+      ]
+    },
+    {
+      "id": "dv-010",
+      "prompt": "Who is the villain in Hercules?",
+      "answer": "Hades"
+    },
+    {
+      "id": "dv-011",
+      "prompt": "Who voiced Hades in Hercules (1997)?",
+      "answer": "James Woods"
+    },
+    {
+      "id": "dv-012",
+      "prompt": "What does the Evil Queen demand from the Huntsman in Snow White?",
+      "answer": "Snow White's heart"
+    },
+    {
+      "id": "dv-013",
+      "prompt": "Who is the arrogant villain in Beauty and the Beast?",
+      "answer": "Gaston"
+    },
+    {
+      "id": "dv-014",
+      "prompt": "Who voiced Ursula in The Little Mermaid (1989)?",
+      "answer": "Pat Carroll"
+    },
+    {
+      "id": "dv-015",
+      "prompt": "Who is the twist villain in Frozen (2013)?",
+      "answer": "Prince Hans"
+    },
+    {
+      "id": "dv-016",
+      "prompt": "Who is the witch villain in The Emperor's New Groove?",
+      "answer": "Yzma"
+    },
+    {
+      "id": "dv-017",
+      "prompt": "What is the name of Yzma's hulking sidekick?",
+      "answer": "Kronk"
+    },
+    {
+      "id": "dv-018",
+      "prompt": "Who is the Hun villain in Mulan?",
+      "answer": "Shan Yu"
+    },
+    {
+      "id": "dv-019",
+      "prompt": "What is Gaston's loyal sidekick called?",
+      "answer": "LeFou"
+    },
+    {
+      "id": "dv-020",
+      "prompt": "What is the villain's name in The Hunchback of Notre Dame?",
+      "answer": "Frollo",
+      "accepted": [
+        "judge claude frollo",
+        "claude frollo"
+      ]
+    }
+  ]
+}

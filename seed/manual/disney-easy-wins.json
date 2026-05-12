@@ -1,0 +1,30 @@
+{
+  "id": "disney-easy-wins",
+  "title": "Disney Easy Wins",
+  "description": "Classic animated trivia almost everyone gets right. Warm-up pack.",
+  "category": "animated",
+  "difficulty": "easy",
+  "source": "manual",
+  "questions": [
+    { "id": "dew-001", "prompt": "What kind of animal is Simba in The Lion King?", "answer": "Lion" },
+    { "id": "dew-002", "prompt": "Who is Ariel's father in The Little Mermaid?", "answer": "King Triton" },
+    { "id": "dew-003", "prompt": "Who voiced the Genie in Disney's 1992 Aladdin?", "answer": "Robin Williams" },
+    { "id": "dew-004", "prompt": "What is the name of the snowman in Frozen?", "answer": "Olaf" },
+    { "id": "dew-005", "prompt": "What year was Snow White and the Seven Dwarfs released?", "answer": "1937" },
+    { "id": "dew-006", "prompt": "What is the name of Mowgli's bear friend in The Jungle Book?", "answer": "Baloo" },
+    { "id": "dew-007", "prompt": "What city is The Princess and the Frog set in?", "answer": "New Orleans" },
+    { "id": "dew-008", "prompt": "Who is Mulan's tiny dragon sidekick?", "answer": "Mushu" },
+    { "id": "dew-009", "prompt": "What is the name of Peter Pan's fairy companion?", "answer": "Tinker Bell" },
+    { "id": "dew-010", "prompt": "Who is the villain in The Lion King?", "answer": "Scar" },
+    { "id": "dew-011", "prompt": "What is the name of Pocahontas' raccoon companion?", "answer": "Meeko" },
+    { "id": "dew-012", "prompt": "Who is Elsa's younger sister in Frozen?", "answer": "Anna" },
+    { "id": "dew-013", "prompt": "What is the name of the rabbit in Bambi?", "answer": "Thumper" },
+    { "id": "dew-014", "prompt": "Who is Hercules' winged horse?", "answer": "Pegasus" },
+    { "id": "dew-015", "prompt": "What is the name of Belle's father in Beauty and the Beast?", "answer": "Maurice" },
+    { "id": "dew-016", "prompt": "Which Disney princess has a pet tiger named Rajah?", "answer": "Jasmine" },
+    { "id": "dew-017", "prompt": "What is the name of the chameleon in Tangled?", "answer": "Pascal" },
+    { "id": "dew-018", "prompt": "What is Moana's pet pig's name?", "answer": "Pua" },
+    { "id": "dew-019", "prompt": "Which Disney film features the song 'A Whole New World'?", "answer": "Aladdin" },
+    { "id": "dew-020", "prompt": "Who is the candelabra in Beauty and the Beast?", "answer": "Lumière" }
+  ]
+}

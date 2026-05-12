@@ -1,0 +1,30 @@
+{
+  "id": "disney-parks",
+  "title": "Disney Parks Trivia",
+  "description": "Rides, history, hidden details across Disneyland and Walt Disney World.",
+  "category": "parks",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    { "id": "dp-001", "prompt": "What year did Disneyland in California open?", "answer": "1955" },
+    { "id": "dp-002", "prompt": "What year did Walt Disney World in Florida open?", "answer": "1971" },
+    { "id": "dp-003", "prompt": "What is the name of the iconic geodesic sphere at Epcot?", "answer": "Spaceship Earth" },
+    { "id": "dp-004", "prompt": "Which Disney park is in Anaheim, California?", "answer": "Disneyland" },
+    { "id": "dp-005", "prompt": "What is the tallest mountain at any Disney park?", "answer": "Expedition Everest" },
+    { "id": "dp-006", "prompt": "How many 'mountains' are there in Magic Kingdom at WDW?", "answer": "Three", "accepted": ["3", "three (space, splash, big thunder)"] },
+    { "id": "dp-007", "prompt": "What was the original name of the ride now called Tiana's Bayou Adventure?", "answer": "Splash Mountain" },
+    { "id": "dp-008", "prompt": "What is the name of the railroad in Magic Kingdom?", "answer": "Walt Disney World Railroad" },
+    { "id": "dp-009", "prompt": "Which Disney park has a castle inspired by Neuschwanstein in Bavaria?", "answer": "Disneyland", "accepted": ["sleeping beauty castle", "disneyland (sleeping beauty castle)"] },
+    { "id": "dp-010", "prompt": "Which park's castle is the largest, located in Shanghai Disneyland?", "answer": "Enchanted Storybook Castle" },
+    { "id": "dp-011", "prompt": "What is the name of the area in Disney parks dedicated to Star Wars?", "answer": "Galaxy's Edge", "accepted": ["star wars: galaxy's edge"] },
+    { "id": "dp-012", "prompt": "What hidden Disney character motif is famously found throughout the parks?", "answer": "Hidden Mickeys" },
+    { "id": "dp-013", "prompt": "What is the name of the central street that leads to the castle?", "answer": "Main Street, U.S.A." },
+    { "id": "dp-014", "prompt": "What is the name of Tokyo Disney's second park?", "answer": "Tokyo DisneySea" },
+    { "id": "dp-015", "prompt": "In what city is Disneyland Paris located?", "answer": "Paris", "accepted": ["marne-la-vallée", "marne la vallee"] },
+    { "id": "dp-016", "prompt": "What was the original name of EPCOT?", "answer": "Experimental Prototype Community of Tomorrow" },
+    { "id": "dp-017", "prompt": "Which ride features the song 'Grim Grinning Ghosts'?", "answer": "The Haunted Mansion" },
+    { "id": "dp-018", "prompt": "What attraction features 'It's a Small World (After All)'?", "answer": "It's a Small World" },
+    { "id": "dp-019", "prompt": "What year did Walt Disney die?", "answer": "1966" },
+    { "id": "dp-020", "prompt": "What is the name of Disney's nighttime fireworks show often performed at Cinderella's Castle?", "answer": "Happily Ever After", "accepted": ["wishes", "disney enchantment"] }
+  ]
+}
