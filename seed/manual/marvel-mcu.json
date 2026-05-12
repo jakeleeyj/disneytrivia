@@ -1,0 +1,139 @@
+{
+  "id": "marvel-mcu",
+  "title": "Marvel (MCU) Essentials",
+  "description": "Avengers, origin films, characters everyone knows.",
+  "category": "marvel",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "mcu-001",
+      "prompt": "What is Iron Man's real name?",
+      "answer": "Tony Stark"
+    },
+    {
+      "id": "mcu-002",
+      "prompt": "What was the first MCU film?",
+      "answer": "Iron Man"
+    },
+    {
+      "id": "mcu-003",
+      "prompt": "Who played Captain America in the Infinity Saga?",
+      "answer": "Chris Evans"
+    },
+    {
+      "id": "mcu-004",
+      "prompt": "What is Thor's hammer called?",
+      "answer": "Mjolnir"
+    },
+    {
+      "id": "mcu-005",
+      "prompt": "What is Captain America's real name?",
+      "answer": "Steve Rogers"
+    },
+    {
+      "id": "mcu-006",
+      "prompt": "Who played Tony Stark in the MCU?",
+      "answer": "Robert Downey Jr.",
+      "accepted": ["robert downey jr", "rdj"]
+    },
+    {
+      "id": "mcu-007",
+      "prompt": "What is Star-Lord's real name in Guardians of the Galaxy?",
+      "answer": "Peter Quill"
+    },
+    {
+      "id": "mcu-008",
+      "prompt": "What planet was Thanos from?",
+      "answer": "Titan"
+    },
+    {
+      "id": "mcu-009",
+      "prompt": "Who is Thor's adopted brother?",
+      "answer": "Loki"
+    },
+    {
+      "id": "mcu-010",
+      "prompt": "What is the Hulk's real name?",
+      "answer": "Bruce Banner"
+    },
+    {
+      "id": "mcu-011",
+      "prompt": "What fictional country is Black Panther king of?",
+      "answer": "Wakanda"
+    },
+    {
+      "id": "mcu-012",
+      "prompt": "Who played T'Challa / Black Panther?",
+      "answer": "Chadwick Boseman"
+    },
+    {
+      "id": "mcu-013",
+      "prompt": "What is Black Widow's real name?",
+      "answer": "Natasha Romanoff",
+      "accepted": ["natasha romanova"]
+    },
+    {
+      "id": "mcu-014",
+      "prompt": "Who directed Avengers: Infinity War and Endgame?",
+      "answer": "The Russo Brothers",
+      "accepted": ["russo brothers", "anthony and joe russo"]
+    },
+    {
+      "id": "mcu-015",
+      "prompt": "How many Infinity Stones are there?",
+      "answer": "Six",
+      "accepted": ["6"]
+    },
+    {
+      "id": "mcu-016",
+      "prompt": "Who is Spider-Man's mentor in the MCU?",
+      "answer": "Tony Stark",
+      "accepted": ["iron man"]
+    },
+    {
+      "id": "mcu-017",
+      "prompt": "Who plays Spider-Man in the MCU?",
+      "answer": "Tom Holland"
+    },
+    {
+      "id": "mcu-018",
+      "prompt": "What is Doctor Strange's first name?",
+      "answer": "Stephen",
+      "accepted": ["stephen strange", "dr. stephen strange"]
+    },
+    {
+      "id": "mcu-019",
+      "prompt": "What organization does Nick Fury lead?",
+      "answer": "S.H.I.E.L.D.",
+      "accepted": ["shield"]
+    },
+    {
+      "id": "mcu-020",
+      "prompt": "Who played Nick Fury in the MCU?",
+      "answer": "Samuel L. Jackson",
+      "accepted": ["samuel l jackson", "samuel jackson"]
+    },
+    { "id": "mcu-021", "prompt": "What color is the Hulk?", "answer": "Green" },
+    {
+      "id": "mcu-022",
+      "prompt": "Who is Tony Stark's longtime love interest and assistant?",
+      "answer": "Pepper Potts"
+    },
+    {
+      "id": "mcu-023",
+      "prompt": "What is Captain America's shield primarily made of?",
+      "answer": "Vibranium"
+    },
+    {
+      "id": "mcu-024",
+      "prompt": "What Disney+ series follows the wizarding couple in a sitcom-style town?",
+      "answer": "WandaVision"
+    },
+    {
+      "id": "mcu-025",
+      "prompt": "Who snaps half of all life away at the end of Infinity War?",
+      "answer": "Thanos"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "disney-songs",
+  "title": "Disney Songs & Music",
+  "description": "Lyrics, composers, and the films behind the biggest songs.",
+  "category": "animated",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "ds-001",
+      "prompt": "Which film features the song 'Let It Go'?",
+      "answer": "Frozen"
+    },
+    {
+      "id": "ds-002",
+      "prompt": "Which film features the song 'A Whole New World'?",
+      "answer": "Aladdin"
+    },
+    {
+      "id": "ds-003",
+      "prompt": "Which film features the song 'Hakuna Matata'?",
+      "answer": "The Lion King"
+    },
+    {
+      "id": "ds-004",
+      "prompt": "Which film features the song 'Under the Sea'?",
+      "answer": "The Little Mermaid"
+    },
+    {
+      "id": "ds-005",
+      "prompt": "Which film features the song 'Part of Your World'?",
+      "answer": "The Little Mermaid"
+    },
+    {
+      "id": "ds-006",
+      "prompt": "Which film features the song 'Be Our Guest'?",
+      "answer": "Beauty and the Beast"
+    },
+    {
+      "id": "ds-007",
+      "prompt": "Which film features the song 'You've Got a Friend in Me'?",
+      "answer": "Toy Story"
+    },
+    {
+      "id": "ds-008",
+      "prompt": "Which film features the song 'How Far I'll Go'?",
+      "answer": "Moana"
+    },
+    {
+      "id": "ds-009",
+      "prompt": "Which film features the song 'We Don't Talk About Bruno'?",
+      "answer": "Encanto"
+    },
+    {
+      "id": "ds-010",
+      "prompt": "Which film features the song 'Circle of Life'?",
+      "answer": "The Lion King"
+    },
+    {
+      "id": "ds-011",
+      "prompt": "Who composed the score for The Lion King (1994)?",
+      "answer": "Hans Zimmer"
+    },
+    {
+      "id": "ds-012",
+      "prompt": "Who wrote the songs 'Let It Go' and 'Into the Unknown' for Frozen?",
+      "answer": "Kristen Anderson-Lopez and Robert Lopez",
+      "accepted": [
+        "robert and kristen lopez",
+        "the lopezes",
+        "kristen anderson-lopez & robert lopez"
+      ]
+    },
+    {
+      "id": "ds-013",
+      "prompt": "Who wrote the songs for Encanto and Moana?",
+      "answer": "Lin-Manuel Miranda"
+    },
+    {
+      "id": "ds-014",
+      "prompt": "Who sang 'You've Got a Friend in Me' for Toy Story?",
+      "answer": "Randy Newman"
+    },
+    {
+      "id": "ds-015",
+      "prompt": "Which film features the song 'I'll Make a Man Out of You'?",
+      "answer": "Mulan"
+    },
+    {
+      "id": "ds-016",
+      "prompt": "Which film features the song 'Reflection'?",
+      "answer": "Mulan"
+    },
+    {
+      "id": "ds-017",
+      "prompt": "Which film features the song 'Colors of the Wind'?",
+      "answer": "Pocahontas"
+    },
+    {
+      "id": "ds-018",
+      "prompt": "Which film features the song 'When You Wish Upon a Star'?",
+      "answer": "Pinocchio"
+    },
+    {
+      "id": "ds-019",
+      "prompt": "Which film features the song 'Bare Necessities'?",
+      "answer": "The Jungle Book"
+    },
+    {
+      "id": "ds-020",
+      "prompt": "Which film features the song 'Remember Me'?",
+      "answer": "Coco"
+    },
+    {
+      "id": "ds-021",
+      "prompt": "Who composed the score for Pirates of the Caribbean: The Curse of the Black Pearl?",
+      "answer": "Klaus Badelt"
+    },
+    {
+      "id": "ds-022",
+      "prompt": "Who wrote the lyrics for The Little Mermaid (1989) songs?",
+      "answer": "Howard Ashman"
+    },
+    {
+      "id": "ds-023",
+      "prompt": "Who composed the music for The Little Mermaid, Beauty and the Beast, and Aladdin?",
+      "answer": "Alan Menken"
+    },
+    {
+      "id": "ds-024",
+      "prompt": "Which Disney park attraction features the song 'It's a Small World'?",
+      "answer": "It's a Small World"
+    },
+    {
+      "id": "ds-025",
+      "prompt": "Which film features the villain song 'Poor Unfortunate Souls'?",
+      "answer": "The Little Mermaid"
+    }
+  ]
+}

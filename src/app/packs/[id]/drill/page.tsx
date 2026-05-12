@@ -60,7 +60,10 @@ export default function DrillPage({
         length,
       }),
     );
-  }, [pack, router, length]);
+    // Depend on pack.id (stable) not pack itself — the mix pack is rebuilt
+    // every render, which would otherwise re-shuffle the queue on every tick.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pack.id, router, length]);
 
   const total = queue?.length ?? 0;
   const current = queue && index < total ? queue[index] : null;

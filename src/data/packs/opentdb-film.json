@@ -1,0 +1,118 @@
+{
+  "id": "opentdb-film",
+  "title": "Open Trivia DB — Disney Films",
+  "description": "Crowd-sourced questions from opentdb.com, filtered for Disney content.",
+  "category": "animated",
+  "difficulty": "medium",
+  "source": "opentdb",
+  "questions": [
+    {
+      "id": "otdb-film-001",
+      "prompt": "What is the orange and white bot's name in \"Star Wars: The Force Awakens\"?",
+      "answer": "BB-8",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-002",
+      "prompt": "In Mulan (1998), who is the leader of the Huns?",
+      "answer": "Shan Yu",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-003",
+      "prompt": "According to the Star Wars lore, what is Han Solo's home planet?",
+      "answer": "Corellia",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-004",
+      "prompt": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+      "answer": "Ewan McGregor",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-005",
+      "prompt": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+      "answer": "Gopher",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-006",
+      "prompt": "What is the name of the first \"Star Wars\" film by release order?",
+      "answer": "A New Hope",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-007",
+      "prompt": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
+      "answer": "Between Episode 3 and 4",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-008",
+      "prompt": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+      "answer": "San Francisco",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-009",
+      "prompt": "In Avengers: Infinity War, where was the Soul Stone located?",
+      "answer": "Vormir",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-010",
+      "prompt": "Which movie sequel had improved box office results compared to its original film?",
+      "answer": "Toy Story 2",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-011",
+      "prompt": "In Finding Nemo, what was the name of Nemo's mom?",
+      "answer": "Coral",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-012",
+      "prompt": "What was the first feature-length computer-animated movie?",
+      "answer": "Toy Story",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-013",
+      "prompt": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+      "answer": "Human Torch",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-014",
+      "prompt": "Who portrayed Han Solo in the Star Wars main film series?",
+      "answer": "Harrison Ford",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-015",
+      "prompt": "What is the oldest Disney film?",
+      "answer": "Snow White and the Seven Dwarfs",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-016",
+      "prompt": "Which of these Disney classics was released in 1970?",
+      "answer": "The Aristocats",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-017",
+      "prompt": "The 2016 Disney animated film 'Moana' is based on which culture?",
+      "answer": "Polynesian",
+      "sourceUrl": "https://opentdb.com"
+    },
+    {
+      "id": "otdb-film-018",
+      "prompt": "Which actor auditioned for the role of Luke Skywalker?",
+      "answer": "Kurt Russell",
+      "sourceUrl": "https://opentdb.com"
+    }
+  ]
+}

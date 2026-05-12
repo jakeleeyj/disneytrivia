@@ -1,0 +1,141 @@
+{
+  "id": "disney-princesses",
+  "title": "Princesses & Princes",
+  "description": "The official lineup — kingdoms, love interests, sidekicks.",
+  "category": "animated",
+  "difficulty": "easy",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "dpr-001",
+      "prompt": "What is Ariel's love interest's name in The Little Mermaid?",
+      "answer": "Prince Eric",
+      "accepted": ["eric"]
+    },
+    {
+      "id": "dpr-002",
+      "prompt": "What kingdom is Frozen set in?",
+      "answer": "Arendelle"
+    },
+    {
+      "id": "dpr-003",
+      "prompt": "What is Mulan's horse's name?",
+      "answer": "Khan"
+    },
+    {
+      "id": "dpr-004",
+      "prompt": "Which princess has a pet seagull named Scuttle?",
+      "answer": "Ariel"
+    },
+    {
+      "id": "dpr-005",
+      "prompt": "What is the name of Cinderella's mouse friend who wears a red shirt and yellow hat?",
+      "answer": "Jaq"
+    },
+    {
+      "id": "dpr-006",
+      "prompt": "What is the name of Jasmine's pet tiger?",
+      "answer": "Rajah"
+    },
+    {
+      "id": "dpr-007",
+      "prompt": "What is the name of Rapunzel's chameleon sidekick?",
+      "answer": "Pascal"
+    },
+    {
+      "id": "dpr-008",
+      "prompt": "What is the name of Moana's pet pig?",
+      "answer": "Pua"
+    },
+    {
+      "id": "dpr-009",
+      "prompt": "What is the name of Moana's rooster companion?",
+      "answer": "Heihei"
+    },
+    {
+      "id": "dpr-010",
+      "prompt": "Who is Belle's love interest in Beauty and the Beast?",
+      "answer": "The Beast",
+      "accepted": ["beast", "prince adam"]
+    },
+    {
+      "id": "dpr-011",
+      "prompt": "What is the name of Mulan's tiny dragon guardian?",
+      "answer": "Mushu"
+    },
+    {
+      "id": "dpr-012",
+      "prompt": "Who is Tiana's love interest in The Princess and the Frog?",
+      "answer": "Prince Naveen",
+      "accepted": ["naveen"]
+    },
+    {
+      "id": "dpr-013",
+      "prompt": "What is Pocahontas's raccoon friend called?",
+      "answer": "Meeko"
+    },
+    {
+      "id": "dpr-014",
+      "prompt": "What is the name of Pocahontas's hummingbird friend?",
+      "answer": "Flit"
+    },
+    {
+      "id": "dpr-015",
+      "prompt": "Who is the love interest in Tangled?",
+      "answer": "Flynn Rider",
+      "accepted": ["eugene", "eugene fitzherbert", "flynn"]
+    },
+    {
+      "id": "dpr-016",
+      "prompt": "What is the name of Merida's horse in Brave?",
+      "answer": "Angus"
+    },
+    {
+      "id": "dpr-017",
+      "prompt": "How many brothers does Merida have in Brave?",
+      "answer": "Three",
+      "accepted": ["3"]
+    },
+    {
+      "id": "dpr-018",
+      "prompt": "What is the name of Raya's loyal armadillo-dragon-like steed?",
+      "answer": "Tuk Tuk"
+    },
+    {
+      "id": "dpr-019",
+      "prompt": "What is the name of the last dragon in Raya and the Last Dragon?",
+      "answer": "Sisu"
+    },
+    {
+      "id": "dpr-020",
+      "prompt": "Who is Aurora's prince in Sleeping Beauty?",
+      "answer": "Prince Phillip",
+      "accepted": ["phillip", "philip", "prince philip"]
+    },
+    {
+      "id": "dpr-021",
+      "prompt": "What is the name of Ariel's fish best friend?",
+      "answer": "Flounder"
+    },
+    {
+      "id": "dpr-022",
+      "prompt": "What is the name of Ariel's crab advisor?",
+      "answer": "Sebastian"
+    },
+    {
+      "id": "dpr-023",
+      "prompt": "What is Elsa and Anna's snowman called?",
+      "answer": "Olaf"
+    },
+    {
+      "id": "dpr-024",
+      "prompt": "What is the name of Anna's love interest in Frozen?",
+      "answer": "Kristoff"
+    },
+    {
+      "id": "dpr-025",
+      "prompt": "What island does Moana set sail from?",
+      "answer": "Motunui"
+    }
+  ]
+}

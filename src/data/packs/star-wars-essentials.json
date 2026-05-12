@@ -1,0 +1,168 @@
+{
+  "id": "star-wars-essentials",
+  "title": "Star Wars Essentials",
+  "description": "Characters, planets, films — the basics that come up at trivia.",
+  "category": "star-wars",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "sw-001",
+      "prompt": "What is Luke Skywalker's home planet?",
+      "answer": "Tatooine"
+    },
+    {
+      "id": "sw-002",
+      "prompt": "What year was the original Star Wars film released?",
+      "answer": "1977"
+    },
+    {
+      "id": "sw-003",
+      "prompt": "What color is Mace Windu's lightsaber?",
+      "answer": "Purple"
+    },
+    {
+      "id": "sw-004",
+      "prompt": "Who is Luke Skywalker's twin sister?",
+      "answer": "Leia",
+      "accepted": [
+        "Princess Leia",
+        "Leia Organa"
+      ]
+    },
+    {
+      "id": "sw-005",
+      "prompt": "What is the name of Han Solo's ship?",
+      "answer": "Millennium Falcon"
+    },
+    {
+      "id": "sw-006",
+      "prompt": "What species is Chewbacca?",
+      "answer": "Wookiee"
+    },
+    {
+      "id": "sw-007",
+      "prompt": "Who trained Luke Skywalker on Dagobah?",
+      "answer": "Yoda"
+    },
+    {
+      "id": "sw-008",
+      "prompt": "What is Darth Vader's birth name?",
+      "answer": "Anakin Skywalker",
+      "accepted": [
+        "Anakin"
+      ]
+    },
+    {
+      "id": "sw-009",
+      "prompt": "Who shot first?",
+      "answer": "Han",
+      "accepted": [
+        "Han Solo"
+      ]
+    },
+    {
+      "id": "sw-010",
+      "prompt": "What is the name of the bounty hunter who captures Han Solo in The Empire Strikes Back?",
+      "answer": "Boba Fett"
+    },
+    {
+      "id": "sw-011",
+      "prompt": "What planet is the Rebel base on at the start of The Empire Strikes Back?",
+      "answer": "Hoth"
+    },
+    {
+      "id": "sw-012",
+      "prompt": "What is the name of the Sith Lord apprentice with a double-bladed lightsaber in The Phantom Menace?",
+      "answer": "Darth Maul"
+    },
+    {
+      "id": "sw-013",
+      "prompt": "Who is the main character of The Mandalorian?",
+      "answer": "Din Djarin",
+      "accepted": [
+        "Mando",
+        "The Mandalorian"
+      ]
+    },
+    {
+      "id": "sw-014",
+      "prompt": "What is the in-universe name of the character commonly called Baby Yoda?",
+      "answer": "Grogu"
+    },
+    {
+      "id": "sw-015",
+      "prompt": "What is the name of the desert scavenger heroine introduced in The Force Awakens?",
+      "answer": "Rey"
+    },
+    {
+      "id": "sw-016",
+      "prompt": "What is Kylo Ren's birth name?",
+      "answer": "Ben Solo",
+      "accepted": [
+        "Ben"
+      ]
+    },
+    {
+      "id": "sw-017",
+      "prompt": "What is the forest moon where the Ewoks live?",
+      "answer": "Endor"
+    },
+    {
+      "id": "sw-018",
+      "prompt": "Who directed the original 1977 Star Wars film?",
+      "answer": "George Lucas"
+    },
+    {
+      "id": "sw-019",
+      "prompt": "Han Solo brags that the Millennium Falcon made the Kessel Run in less than how many parsecs?",
+      "answer": "12 parsecs",
+      "accepted": [
+        "12",
+        "twelve",
+        "twelve parsecs"
+      ]
+    },
+    {
+      "id": "sw-020",
+      "prompt": "Who is the protagonist of Rogue One?",
+      "answer": "Jyn Erso"
+    },
+    {
+      "id": "sw-021",
+      "prompt": "What is the protocol droid C-3PO's primary function?",
+      "answer": "Protocol droid",
+      "accepted": [
+        "translator",
+        "translation",
+        "human-cyborg relations"
+      ]
+    },
+    {
+      "id": "sw-022",
+      "prompt": "What is the name of Obi-Wan Kenobi's Padawan who later becomes Darth Vader?",
+      "answer": "Anakin Skywalker",
+      "accepted": [
+        "Anakin"
+      ]
+    },
+    {
+      "id": "sw-023",
+      "prompt": "What is the capital planet of the Republic and later the Empire, home to the Jedi Temple?",
+      "answer": "Coruscant"
+    },
+    {
+      "id": "sw-024",
+      "prompt": "Complete the line: 'I am your ___.'",
+      "answer": "Father"
+    },
+    {
+      "id": "sw-025",
+      "prompt": "What is the name of Anakin Skywalker's Padawan in The Clone Wars?",
+      "answer": "Ahsoka Tano",
+      "accepted": [
+        "Ahsoka"
+      ]
+    }
+  ]
+}
