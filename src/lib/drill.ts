@@ -1,9 +1,11 @@
-import type { Question } from './types';
+import type { Question } from "./types";
+
+export type DrillLength = number | "unlimited";
 
 type BuildDrillQueueArgs = {
   packQuestions: Question[];
   missQueue: string[];
-  length?: number;
+  length?: DrillLength;
   rng?: () => number;
 };
 
@@ -33,6 +35,11 @@ export function buildDrillQueue({
     packQuestions.filter((q) => !missSet.has(q.id)),
     rng,
   );
+
+  // Unlimited: miss-queue first, then the rest. Caller loops when index runs out.
+  if (length === "unlimited") {
+    return [...missedInPack, ...freshInPack];
+  }
 
   const target = Math.min(length, packQuestions.length);
   const missTarget = Math.min(Math.floor(target * 0.4), missedInPack.length);
