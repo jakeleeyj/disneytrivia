@@ -14,17 +14,20 @@
     {
       "id": "mcu-002",
       "prompt": "What was the first MCU film?",
-      "answer": "Iron Man"
+      "answer": "Iron Man",
+      "explanation": "Released May 2, 2008 and directed by Jon Favreau, Iron Man launched the Marvel Cinematic Universe and Phase One."
     },
     {
       "id": "mcu-003",
       "prompt": "Who played Captain America in the Infinity Saga?",
-      "answer": "Chris Evans"
+      "answer": "Chris Evans",
+      "explanation": "Evans first played Steve Rogers in Captain America: The First Avenger (2011) and passed the shield to Sam Wilson at the end of Endgame."
     },
     {
       "id": "mcu-004",
       "prompt": "What is Thor's hammer called?",
-      "answer": "Mjolnir"
+      "answer": "Mjolnir",
+      "explanation": "Forged in the heart of a dying star, Mjolnir can only be lifted by those deemed worthy; Hela shatters it in Thor: Ragnarok (2017)."
     },
     {
       "id": "mcu-005",
@@ -35,22 +38,26 @@
       "id": "mcu-006",
       "prompt": "Who played Tony Stark in the MCU?",
       "answer": "Robert Downey Jr.",
-      "accepted": ["robert downey jr", "rdj"]
+      "accepted": ["robert downey jr", "rdj"],
+      "explanation": "Downey's casting in 2008 was considered a gamble given his past; the role revived his career and anchored the MCU for over a decade."
     },
     {
       "id": "mcu-007",
       "prompt": "What is Star-Lord's real name in Guardians of the Galaxy?",
-      "answer": "Peter Quill"
+      "answer": "Peter Quill",
+      "explanation": "Played by Chris Pratt, Quill is half-human, half-Celestial; he was abducted from Earth in 1988 after his mother's death."
     },
     {
       "id": "mcu-008",
       "prompt": "What planet was Thanos from?",
-      "answer": "Titan"
+      "answer": "Titan",
+      "explanation": "Titan is a moon of Saturn in Marvel lore, devastated by overpopulation — the trauma that drove Thanos's culling philosophy."
     },
     {
       "id": "mcu-009",
       "prompt": "Who is Thor's adopted brother?",
-      "answer": "Loki"
+      "answer": "Loki",
+      "explanation": "Played by Tom Hiddleston, Loki is a Frost Giant adopted by Odin; he's the god of mischief and the villain of the first Avengers film."
     },
     {
       "id": "mcu-010",
@@ -60,80 +67,98 @@
     {
       "id": "mcu-011",
       "prompt": "What fictional country is Black Panther king of?",
-      "answer": "Wakanda"
+      "answer": "Wakanda",
+      "explanation": "Wakanda is an isolated East African nation made wealthy by vibranium deposits from an ancient meteorite strike."
     },
     {
       "id": "mcu-012",
       "prompt": "Who played T'Challa / Black Panther?",
-      "answer": "Chadwick Boseman"
+      "answer": "Chadwick Boseman",
+      "explanation": "Boseman debuted as T'Challa in Captain America: Civil War (2016); the role was not recast after his death in 2020."
     },
     {
       "id": "mcu-013",
       "prompt": "What is Black Widow's real name?",
       "answer": "Natasha Romanoff",
-      "accepted": ["natasha romanova"]
+      "accepted": ["natasha romanova"],
+      "explanation": "Played by Scarlett Johansson, Natasha is a former KGB assassin trained in the Red Room; she sacrifices herself on Vormir in Endgame."
     },
     {
       "id": "mcu-014",
       "prompt": "Who directed Avengers: Infinity War and Endgame?",
       "answer": "The Russo Brothers",
-      "accepted": ["russo brothers", "anthony and joe russo"]
+      "accepted": ["russo brothers", "anthony and joe russo"],
+      "explanation": "Anthony and Joe Russo also directed Captain America: The Winter Soldier and Civil War; Endgame (2019) became one of the highest-grossing films ever."
     },
     {
       "id": "mcu-015",
       "prompt": "How many Infinity Stones are there?",
       "answer": "Six",
-      "accepted": ["6"]
+      "accepted": ["6"],
+      "explanation": "Space, Mind, Reality, Power, Time, and Soul — six singularities from before the universe, each controlling a fundamental aspect of existence."
     },
     {
       "id": "mcu-016",
       "prompt": "Who is Spider-Man's mentor in the MCU?",
       "answer": "Tony Stark",
-      "accepted": ["iron man"]
+      "accepted": ["iron man"],
+      "explanation": "Stark recruits Peter for Civil War and gifts him the upgraded suit; Peter's grief over Tony's death drives Far From Home (2019)."
     },
     {
       "id": "mcu-017",
       "prompt": "Who plays Spider-Man in the MCU?",
-      "answer": "Tom Holland"
+      "answer": "Tom Holland",
+      "explanation": "Holland debuted as Peter Parker in Captain America: Civil War (2016), the third live-action Spider-Man after Tobey Maguire and Andrew Garfield."
     },
     {
       "id": "mcu-018",
       "prompt": "What is Doctor Strange's first name?",
       "answer": "Stephen",
-      "accepted": ["stephen strange", "dr. stephen strange"]
+      "accepted": ["stephen strange", "dr. stephen strange"],
+      "explanation": "Dr. Stephen Strange was a brilliant neurosurgeon until a car crash ruined his hands; he's played by Benedict Cumberbatch."
     },
     {
       "id": "mcu-019",
       "prompt": "What organization does Nick Fury lead?",
       "answer": "S.H.I.E.L.D.",
-      "accepted": ["shield"]
+      "accepted": ["shield"],
+      "explanation": "Strategic Homeland Intervention, Enforcement and Logistics Division — the spy agency that assembles the Avengers and is later infiltrated by Hydra."
     },
     {
       "id": "mcu-020",
       "prompt": "Who played Nick Fury in the MCU?",
       "answer": "Samuel L. Jackson",
-      "accepted": ["samuel l jackson", "samuel jackson"]
+      "accepted": ["samuel l jackson", "samuel jackson"],
+      "explanation": "Jackson first appeared in the post-credits scene of Iron Man (2008), establishing the Avengers Initiative and the wider MCU."
     },
-    { "id": "mcu-021", "prompt": "What color is the Hulk?", "answer": "Green" },
+    {
+      "id": "mcu-021",
+      "prompt": "What color is the Hulk?",
+      "answer": "Green"
+    },
     {
       "id": "mcu-022",
       "prompt": "Who is Tony Stark's longtime love interest and assistant?",
-      "answer": "Pepper Potts"
+      "answer": "Pepper Potts",
+      "explanation": "Played by Gwyneth Paltrow, Pepper marries Tony and dons the Rescue armor during the final battle in Avengers: Endgame."
     },
     {
       "id": "mcu-023",
       "prompt": "What is Captain America's shield primarily made of?",
-      "answer": "Vibranium"
+      "answer": "Vibranium",
+      "explanation": "The shield was forged by Howard Stark from rare Wakandan vibranium, the same metal that powers Wakanda and protects T'Challa's suit."
     },
     {
       "id": "mcu-024",
       "prompt": "What Disney+ series follows the wizarding couple in a sitcom-style town?",
-      "answer": "WandaVision"
+      "answer": "WandaVision",
+      "explanation": "The 2021 series follows Wanda Maximoff and Vision through pastiches of classic sitcoms, set in the New Jersey town of Westview."
     },
     {
       "id": "mcu-025",
       "prompt": "Who snaps half of all life away at the end of Infinity War?",
-      "answer": "Thanos"
+      "answer": "Thanos",
+      "explanation": "Wielding the completed Infinity Gauntlet, Thanos executes 'the Snap' on Wakanda's battlefield in the 2018 film, erasing half of all life."
     }
   ]
 }

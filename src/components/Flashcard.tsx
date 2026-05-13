@@ -1,11 +1,11 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
-import type { Question } from '@/lib/types';
+import { useState } from "react";
+import type { Question } from "@/lib/types";
 
 type Props = {
   question: Question;
-  onResult: (result: 'got_it' | 'missed') => void;
+  onResult: (result: "got_it" | "missed") => void;
 };
 
 // Parent should pass `key={question.id}` so internal state resets per card.
@@ -19,7 +19,9 @@ export function Flashcard({ question, onResult }: Props) {
           <p className="text-xs uppercase tracking-wide text-[color:var(--muted-foreground)]">
             Question
           </p>
-          <p className="mt-3 text-lg font-medium leading-snug text-balance">{question.prompt}</p>
+          <p className="mt-3 text-lg font-medium leading-snug text-balance">
+            {question.prompt}
+          </p>
 
           {revealed ? (
             <div className="mt-6 border-t border-[color:var(--border)] pt-4">
@@ -29,7 +31,12 @@ export function Flashcard({ question, onResult }: Props) {
               <p className="mt-2 text-lg font-semibold">{question.answer}</p>
               {question.accepted && question.accepted.length > 0 ? (
                 <p className="mt-2 text-xs text-[color:var(--muted-foreground)]">
-                  Also accepted: {question.accepted.join(', ')}
+                  Also accepted: {question.accepted.join(", ")}
+                </p>
+              ) : null}
+              {question.explanation ? (
+                <p className="mt-3 rounded-lg bg-[color:var(--background)] p-3 text-sm leading-relaxed text-[color:var(--muted-foreground)]">
+                  {question.explanation}
                 </p>
               ) : null}
             </div>
@@ -50,14 +57,14 @@ export function Flashcard({ question, onResult }: Props) {
           <div className="grid grid-cols-2 gap-2">
             <button
               type="button"
-              onClick={() => onResult('missed')}
+              onClick={() => onResult("missed")}
               className="rounded-xl bg-[color:var(--danger)] py-4 text-base font-semibold text-white hover:opacity-90"
             >
               Missed
             </button>
             <button
               type="button"
-              onClick={() => onResult('got_it')}
+              onClick={() => onResult("got_it")}
               className="rounded-xl bg-[color:var(--success)] py-4 text-base font-semibold text-white hover:opacity-90"
             >
               Got it

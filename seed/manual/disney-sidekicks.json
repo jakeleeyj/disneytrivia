@@ -9,127 +9,152 @@
     {
       "id": "dsk-001",
       "prompt": "What kind of animal is Pumbaa in The Lion King?",
-      "answer": "Warthog"
+      "answer": "Warthog",
+      "explanation": "Pumbaa is voiced by Ernie Sabella; his name means 'simpleton' or 'careless' in Swahili, fitting his easygoing nature."
     },
     {
       "id": "dsk-002",
       "prompt": "What kind of animal is Timon in The Lion King?",
-      "answer": "Meerkat"
+      "answer": "Meerkat",
+      "explanation": "Timon is voiced by Nathan Lane and was the first Disney character whose entire body was animated, not just the face."
     },
     {
       "id": "dsk-003",
       "prompt": "What kind of bird is Zazu in The Lion King?",
-      "answer": "Hornbill"
+      "answer": "Hornbill",
+      "explanation": "Zazu is a red-billed hornbill who serves as Mufasa's majordomo; he's voiced by Rowan Atkinson in the 1994 original."
     },
     {
       "id": "dsk-004",
       "prompt": "What kind of animal is Rafiki in The Lion King?",
-      "answer": "Mandrill"
+      "answer": "Mandrill",
+      "explanation": "Rafiki is technically a mandrill with a baboon's tail; 'rafiki' means 'friend' in Swahili and he serves as the kingdom's shaman."
     },
     {
       "id": "dsk-005",
       "prompt": "Name any one of the three good fairies in Sleeping Beauty.",
-      "answer": "Flora"
+      "answer": "Flora",
+      "explanation": "The three fairies are Flora (red), Fauna (green), and Merryweather (blue); they raise Aurora as 'Briar Rose' in the woods."
     },
     {
       "id": "dsk-006",
       "prompt": "Name any one of the Seven Dwarfs.",
-      "answer": "Doc"
+      "answer": "Doc",
+      "explanation": "The seven are Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, and Dopey — from the first feature-length animated film, Snow White (1937)."
     },
     {
       "id": "dsk-007",
       "prompt": "Which dwarf in Snow White never speaks?",
-      "answer": "Dopey"
+      "answer": "Dopey",
+      "explanation": "Dopey is silent because the team couldn't find the right voice; the studio later said he simply 'never tried' to speak."
     },
     {
       "id": "dsk-008",
       "prompt": "What are the names of the two adult Dalmatian parents in 101 Dalmatians?",
-      "answer": "Pongo and Perdita"
+      "answer": "Pongo and Perdita",
+      "explanation": "Pongo and Perdita have 15 puppies of their own and rescue 84 more from Cruella de Vil in the 1961 animated classic."
     },
     {
       "id": "dsk-009",
       "prompt": "What is the name of the alley cat who helps the Aristocats?",
-      "answer": "O'Malley"
+      "answer": "O'Malley",
+      "explanation": "Thomas O'Malley is the streetwise orange tomcat voiced by Phil Harris, who also voiced Baloo in The Jungle Book."
     },
     {
       "id": "dsk-010",
       "prompt": "Who is Robin Hood's bear best friend in the 1973 Disney film?",
-      "answer": "Little John"
+      "answer": "Little John",
+      "explanation": "Little John is voiced by Phil Harris and his character design was reused — he's essentially Baloo from The Jungle Book in a new outfit."
     },
     {
       "id": "dsk-011",
       "prompt": "What are the names of the two mice agents in The Rescuers?",
-      "answer": "Bernard and Bianca"
+      "answer": "Bernard and Bianca",
+      "explanation": "Bernard (Bob Newhart) and Miss Bianca (Eva Gabor) work for the Rescue Aid Society in this 1977 film and its 1990 Australian sequel."
     },
     {
       "id": "dsk-012",
       "prompt": "What is the name of the teapot in Beauty and the Beast?",
-      "answer": "Mrs. Potts"
+      "answer": "Mrs. Potts",
+      "explanation": "Mrs. Potts is voiced by Angela Lansbury, who recorded the title song 'Beauty and the Beast' in a single take."
     },
     {
       "id": "dsk-013",
       "prompt": "What is the name of the teacup, son of Mrs. Potts?",
-      "answer": "Chip"
+      "answer": "Chip",
+      "explanation": "Chip has a chip on the rim of his cup and was originally meant to have just one line; the team expanded his role after liking the voice."
     },
     {
       "id": "dsk-014",
       "prompt": "What is the name of the mantel clock in Beauty and the Beast?",
-      "answer": "Cogsworth"
+      "answer": "Cogsworth",
+      "explanation": "Cogsworth is the uptight head of household voiced by David Ogden Stiers, who also voiced the narrator and the villain Governor Ratcliffe."
     },
     {
       "id": "dsk-015",
       "prompt": "What is the name of Aladdin's pet monkey?",
-      "answer": "Abu"
+      "answer": "Abu",
+      "explanation": "Abu is a capuchin monkey who wears a fez and vest; he's a skilled pickpocket and is briefly turned into an elephant by Genie."
     },
     {
       "id": "dsk-016",
       "prompt": "What kind of animal is Pocahontas's companion Percy?",
-      "answer": "Pug"
+      "answer": "Pug",
+      "explanation": "Percy is Governor Ratcliffe's pampered pug who eventually defects to Pocahontas's side after meeting Meeko the raccoon."
     },
     {
       "id": "dsk-017",
       "prompt": "What kind of bird is Pocahontas's companion Flit?",
-      "answer": "Hummingbird"
+      "answer": "Hummingbird",
+      "explanation": "Flit is a ruby-throated hummingbird whose rapid wing-beats let animators show his suspicion of John Smith through hovering close-ups."
     },
     {
       "id": "dsk-018",
       "prompt": "What is the name of Hercules's satyr trainer?",
-      "answer": "Phil"
+      "answer": "Phil",
+      "explanation": "Philoctetes is voiced by Danny DeVito; in Greek myth he was a famed archer, but Disney reimagined him as a grumpy hero-trainer."
     },
     {
       "id": "dsk-019",
       "prompt": "What is the name of Mulan's lucky cricket?",
-      "answer": "Cri-Kee"
+      "answer": "Cri-Kee",
+      "explanation": "Cri-Kee was given to Mulan by her grandmother as a good-luck charm; in Chinese culture, crickets are traditional symbols of luck."
     },
     {
       "id": "dsk-020",
       "prompt": "What is the name of the alien scientist who created Stitch?",
-      "answer": "Jumba"
+      "answer": "Jumba",
+      "explanation": "Dr. Jumba Jookiba is voiced by David Ogden Stiers; Stitch is officially his 626th genetic experiment, designed for destruction."
     },
     {
       "id": "dsk-021",
       "prompt": "What is the name of Jumba's one-eyed partner in Lilo & Stitch?",
-      "answer": "Pleakley"
+      "answer": "Pleakley",
+      "explanation": "Pleakley is the nervous Galactic Federation agent voiced by Kevin McDonald, who's obsessed with Earth and loves wearing human dresses."
     },
     {
       "id": "dsk-022",
       "prompt": "What is the name of the cat who befriends Bolt on his journey home?",
-      "answer": "Mittens"
+      "answer": "Mittens",
+      "explanation": "Mittens is a streetwise declawed cat voiced by Susie Essman in Bolt (2008), John Travolta's first animated voice role."
     },
     {
       "id": "dsk-023",
       "prompt": "What kind of animal is Rhino, Bolt's biggest fan?",
-      "answer": "Hamster"
+      "answer": "Hamster",
+      "explanation": "Rhino is the obsessed hamster who lives in a plastic ball and worships Bolt; he was originally written as a much smaller part."
     },
     {
       "id": "dsk-024",
       "prompt": "What is the name of the glitch racer Ralph befriends in Wreck-It Ralph?",
-      "answer": "Vanellope"
+      "answer": "Vanellope",
+      "explanation": "Vanellope von Schweetz is voiced by Sarah Silverman; her glitch is actually a sign she's the rightful princess of Sugar Rush."
     },
     {
       "id": "dsk-025",
       "prompt": "What is the name of the mouse detective who solves cases on Baker Street?",
-      "answer": "Basil"
+      "answer": "Basil",
+      "explanation": "Basil of Baker Street stars in The Great Mouse Detective (1986), a Sherlock Holmes parody where the villain Ratigan is voiced by Vincent Price."
     }
   ]
 }

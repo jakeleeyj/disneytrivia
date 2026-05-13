@@ -10,132 +10,157 @@
       "id": "dpr-001",
       "prompt": "What is Ariel's love interest's name in The Little Mermaid?",
       "answer": "Prince Eric",
-      "accepted": ["eric"]
+      "accepted": ["eric"],
+      "explanation": "Eric is the human prince Ariel saves from a shipwreck in The Little Mermaid (1989), the film that kicked off the Disney Renaissance."
     },
     {
       "id": "dpr-002",
       "prompt": "What kingdom is Frozen set in?",
-      "answer": "Arendelle"
+      "answer": "Arendelle",
+      "explanation": "Arendelle is a fictional Nordic kingdom inspired by Norway — the directors visited Norwegian fjords and stave churches for reference."
     },
     {
       "id": "dpr-003",
       "prompt": "What is Mulan's horse's name?",
-      "answer": "Khan"
+      "answer": "Khan",
+      "explanation": "Khan is Mulan's loyal black stallion, named after the Mongol leaders — fitting since the film's villains are the Huns."
     },
     {
       "id": "dpr-004",
       "prompt": "Which princess has a pet seagull named Scuttle?",
-      "answer": "Ariel"
+      "answer": "Ariel",
+      "explanation": "Scuttle is the seagull who hilariously misidentifies human objects — calling a fork a 'dinglehopper' used for combing hair."
     },
     {
       "id": "dpr-005",
       "prompt": "What is the name of Cinderella's mouse friend who wears a red shirt and yellow hat?",
-      "answer": "Jaq"
+      "answer": "Jaq",
+      "explanation": "Jaq is the slim, leader-type mouse in Cinderella (1950); his round, chubby pal is Gus, whom Jaq rescued from a trap."
     },
     {
       "id": "dpr-006",
       "prompt": "What is the name of Jasmine's pet tiger?",
-      "answer": "Rajah"
+      "answer": "Rajah",
+      "explanation": "Rajah is Jasmine's fiercely protective Bengal tiger in Aladdin (1992); 'rajah' means king or monarch in Hindi."
     },
     {
       "id": "dpr-007",
       "prompt": "What is the name of Rapunzel's chameleon sidekick?",
-      "answer": "Pascal"
+      "answer": "Pascal",
+      "explanation": "Pascal is the silent, expressive chameleon in Tangled (2010) who changes colour with his mood and slaps Flynn awake with his tail."
     },
     {
       "id": "dpr-008",
       "prompt": "What is the name of Moana's pet pig?",
-      "answer": "Pua"
+      "answer": "Pua",
+      "explanation": "Pua is Moana's adorable potbellied pig — he gets left behind on Motunui, so the dim rooster Heihei tags along instead."
     },
     {
       "id": "dpr-009",
       "prompt": "What is the name of Moana's rooster companion?",
-      "answer": "Heihei"
+      "answer": "Heihei",
+      "explanation": "Heihei is the famously dim-witted rooster voiced by Alan Tudyk, who has voiced an animal in nearly every Disney film since Frozen."
     },
     {
       "id": "dpr-010",
       "prompt": "Who is Belle's love interest in Beauty and the Beast?",
       "answer": "The Beast",
-      "accepted": ["beast", "prince adam"]
+      "accepted": ["beast", "prince adam"],
+      "explanation": "The Beast's human name 'Prince Adam' was never spoken in the 1991 film; it came from supplementary materials and merchandise."
     },
     {
       "id": "dpr-011",
       "prompt": "What is the name of Mulan's tiny dragon guardian?",
-      "answer": "Mushu"
+      "answer": "Mushu",
+      "explanation": "Mushu is voiced by Eddie Murphy in Mulan (1998); he was demoted from family guardian and is trying to win his job back."
     },
     {
       "id": "dpr-012",
       "prompt": "Who is Tiana's love interest in The Princess and the Frog?",
       "answer": "Prince Naveen",
-      "accepted": ["naveen"]
+      "accepted": ["naveen"],
+      "explanation": "Naveen is the spoiled prince of fictional Maldonia who's turned into a frog by Dr. Facilier in the 2009 New Orleans-set film."
     },
     {
       "id": "dpr-013",
       "prompt": "What is Pocahontas's raccoon friend called?",
-      "answer": "Meeko"
+      "answer": "Meeko",
+      "explanation": "Meeko is the mischievous, food-obsessed raccoon in Pocahontas (1995); his name comes from an Algonquin word for a small animal."
     },
     {
       "id": "dpr-014",
       "prompt": "What is the name of Pocahontas's hummingbird friend?",
-      "answer": "Flit"
+      "answer": "Flit",
+      "explanation": "Flit is the protective ruby-throated hummingbird who distrusts John Smith and constantly tries to keep Pocahontas out of trouble."
     },
     {
       "id": "dpr-015",
       "prompt": "Who is the love interest in Tangled?",
       "answer": "Flynn Rider",
-      "accepted": ["eugene", "eugene fitzherbert", "flynn"]
+      "accepted": ["eugene", "eugene fitzherbert", "flynn"],
+      "explanation": "Flynn is the charming thief's alias; his real name is Eugene Fitzherbert, and he's voiced by Zachary Levi in Tangled (2010)."
     },
     {
       "id": "dpr-016",
       "prompt": "What is the name of Merida's horse in Brave?",
-      "answer": "Angus"
+      "answer": "Angus",
+      "explanation": "Angus is Merida's enormous black Shire horse in Brave (2012), Pixar's first film with a female lead."
     },
     {
       "id": "dpr-017",
       "prompt": "How many brothers does Merida have in Brave?",
       "answer": "Three",
-      "accepted": ["3"]
+      "accepted": ["3"],
+      "explanation": "Her identical red-headed triplet brothers — Harris, Hubert, and Hamish — get turned into bear cubs after eating an enchanted tart."
     },
     {
       "id": "dpr-018",
       "prompt": "What is the name of Raya's loyal armadillo-dragon-like steed?",
-      "answer": "Tuk Tuk"
+      "answer": "Tuk Tuk",
+      "explanation": "Tuk Tuk starts as a tiny pill-bug-sized pet and grows into a giant rolling mount in Raya and the Last Dragon (2021)."
     },
     {
       "id": "dpr-019",
       "prompt": "What is the name of the last dragon in Raya and the Last Dragon?",
-      "answer": "Sisu"
+      "answer": "Sisu",
+      "explanation": "Sisu is voiced by Awkwafina; her name comes from a Finnish word meaning stoic determination and inner strength."
     },
     {
       "id": "dpr-020",
       "prompt": "Who is Aurora's prince in Sleeping Beauty?",
       "answer": "Prince Phillip",
-      "accepted": ["phillip", "philip", "prince philip"]
+      "accepted": ["phillip", "philip", "prince philip"],
+      "explanation": "Phillip is the first Disney prince given a real personality and screen time; he slays the dragon-form Maleficent in Sleeping Beauty (1959)."
     },
     {
       "id": "dpr-021",
       "prompt": "What is the name of Ariel's fish best friend?",
-      "answer": "Flounder"
+      "answer": "Flounder",
+      "explanation": "Despite his name, Flounder is actually a tropical yellow-and-blue fish — not a flounder, which is a flat bottom-dwelling species."
     },
     {
       "id": "dpr-022",
       "prompt": "What is the name of Ariel's crab advisor?",
-      "answer": "Sebastian"
+      "answer": "Sebastian",
+      "explanation": "Sebastian is the Jamaican-accented court composer who sings 'Under the Sea' — the song won the 1989 Oscar for Best Original Song."
     },
     {
       "id": "dpr-023",
       "prompt": "What is Elsa and Anna's snowman called?",
-      "answer": "Olaf"
+      "answer": "Olaf",
+      "explanation": "Olaf is voiced by Josh Gad and was built by the sisters as children; he dreams of experiencing summer despite being made of snow."
     },
     {
       "id": "dpr-024",
       "prompt": "What is the name of Anna's love interest in Frozen?",
-      "answer": "Kristoff"
+      "answer": "Kristoff",
+      "explanation": "Kristoff is the gruff ice harvester raised by trolls, voiced by Jonathan Groff; his best friend is the reindeer Sven."
     },
     {
       "id": "dpr-025",
       "prompt": "What island does Moana set sail from?",
-      "answer": "Motunui"
+      "answer": "Motunui",
+      "explanation": "Motunui is the fictional Polynesian island where Moana is the chief's daughter in Moana (2016); 'motu nui' means 'big island'."
     }
   ]
 }

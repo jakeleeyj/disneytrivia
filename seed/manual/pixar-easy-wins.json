@@ -9,131 +9,156 @@
     {
       "id": "pew-001",
       "prompt": "In Toy Story, what is the name of Andy's cowboy doll?",
-      "answer": "Woody"
+      "answer": "Woody",
+      "explanation": "Woody is a pull-string sheriff doll from a fictional 1950s TV show called Woody's Roundup, revealed in Toy Story 2 (1999)."
     },
     {
       "id": "pew-002",
       "prompt": "In Toy Story, what is the name of the space ranger action figure?",
-      "answer": "Buzz Lightyear"
+      "answer": "Buzz Lightyear",
+      "explanation": "Buzz is named after astronaut Buzz Aldrin, the second person to walk on the moon — Pixar got permission from Aldrin himself."
     },
     {
       "id": "pew-003",
       "prompt": "What kind of fish is Nemo in Finding Nemo?",
-      "answer": "Clownfish"
+      "answer": "Clownfish",
+      "explanation": "Finding Nemo (2003) caused a real-world spike in clownfish sales as pets, which ironically harmed wild reef populations."
     },
     {
       "id": "pew-004",
       "prompt": "What is the name of Nemo's father?",
-      "answer": "Marlin"
+      "answer": "Marlin",
+      "explanation": "Marlin is voiced by Albert Brooks; the name is a fish pun, since marlin is also a species of large saltwater fish."
     },
     {
       "id": "pew-005",
       "prompt": "What is the name of the race car hero in Cars?",
-      "answer": "Lightning McQueen"
+      "answer": "Lightning McQueen",
+      "explanation": "Lightning McQueen is voiced by Owen Wilson and named in tribute to Pixar animator Glenn McQueen, who died in 2002."
     },
     {
       "id": "pew-006",
       "prompt": "What kind of vehicle is Mater in Cars?",
-      "answer": "Tow truck"
+      "answer": "Tow truck",
+      "explanation": "Mater is a rusty 1950s-era tow truck voiced by Larry the Cable Guy; his name is a play on 'tow-mater' (tomato)."
     },
     {
       "id": "pew-007",
       "prompt": "In Monsters, Inc., what is the name of the big blue furry monster?",
       "answer": "Sulley",
-      "accepted": ["sully", "james p. sullivan"]
+      "accepted": ["sully", "james p. sullivan"],
+      "explanation": "Sulley is voiced by John Goodman; his full name is James P. Sullivan and his blue fur required Pixar to invent new simulation tech for 2.3 million hairs."
     },
     {
       "id": "pew-008",
       "prompt": "In The Incredibles, what is the family's last name?",
-      "answer": "Parr"
+      "answer": "Parr",
+      "explanation": "The surname 'Parr' is a play on 'par' as in average — a wink at the family hiding as ordinary suburbanites despite their powers."
     },
     {
       "id": "pew-009",
       "prompt": "What is the name of the baby in The Incredibles?",
-      "answer": "Jack-Jack"
+      "answer": "Jack-Jack",
+      "explanation": "Jack-Jack's many powers (laser eyes, fire, teleport, shape-shifting) are fully revealed in Incredibles 2 (2018), 14 years after the original."
     },
     {
       "id": "pew-010",
       "prompt": "In Up, what is the name of the young Wilderness Explorer who tags along with Carl?",
-      "answer": "Russell"
+      "answer": "Russell",
+      "explanation": "Russell is voiced by Jordan Nagai, who was eight when cast; director Pete Docter picked him because he wouldn't stop talking at the audition."
     },
     {
       "id": "pew-011",
       "prompt": "How does Carl's house fly in Up?",
-      "answer": "Balloons"
+      "answer": "Balloons",
+      "explanation": "Pixar animators calculated that lifting a real house would actually require around 100,000 helium balloons, not the few thousand shown on screen."
     },
     {
       "id": "pew-012",
       "prompt": "In WALL-E, what is the name of the sleek white robot WALL-E falls in love with?",
-      "answer": "EVE"
+      "answer": "EVE",
+      "explanation": "EVE stands for Extraterrestrial Vegetation Evaluator; her smooth iPod-like design was created with help from Apple's Jonathan Ive."
     },
     {
       "id": "pew-013",
       "prompt": "In Coco, what is the name of the main character who dreams of being a musician?",
-      "answer": "Miguel"
+      "answer": "Miguel",
+      "explanation": "Miguel is voiced by Anthony Gonzalez, who was 12 during recording; Pixar spent six years researching Mexican culture for the film."
     },
     {
       "id": "pew-014",
       "prompt": "What Mexican holiday is Coco set during?",
       "answer": "Día de los Muertos",
-      "accepted": ["day of the dead", "dia de los muertos"]
+      "accepted": ["day of the dead", "dia de los muertos"],
+      "explanation": "Día de los Muertos honors deceased loved ones on November 1-2; Coco (2017) became the highest-grossing film ever in Mexico at its release."
     },
     {
       "id": "pew-015",
       "prompt": "In Inside Out, what is the name of the young girl whose emotions we see?",
-      "answer": "Riley"
+      "answer": "Riley",
+      "explanation": "Riley was inspired by director Pete Docter's real daughter Elie, who also voiced young Ellie in Up (2009)."
     },
     {
       "id": "pew-016",
       "prompt": "In Brave, what is the name of the red-haired princess?",
-      "answer": "Merida"
+      "answer": "Merida",
+      "explanation": "Merida was Pixar's first female protagonist and is voiced by Kelly Macdonald; her wild curly hair required custom-built simulation software."
     },
     {
       "id": "pew-017",
       "prompt": "What country is Brave set in?",
-      "answer": "Scotland"
+      "answer": "Scotland",
+      "explanation": "Brave (2012) is set in the medieval Scottish Highlands; Pixar's crew traveled to Scotland for two research trips to study landscape and culture."
     },
     {
       "id": "pew-018",
       "prompt": "In Ratatouille, what city is the film set in?",
-      "answer": "Paris"
+      "answer": "Paris",
+      "explanation": "Director Brad Bird ate at every Michelin-starred restaurant in Paris during research, and Thomas Keller of The French Laundry consulted on the food."
     },
     {
       "id": "pew-019",
       "prompt": "In A Bug's Life, what kind of insect is the main character Flik?",
-      "answer": "Ant"
+      "answer": "Ant",
+      "explanation": "A Bug's Life (1998) was Pixar's second feature; it released the same year as DreamWorks' Antz, sparking a long rivalry between the studios."
     },
     {
       "id": "pew-020",
       "prompt": "In Finding Dory, what kind of animal is Hank, the creature that helps Dory?",
       "answer": "Octopus",
-      "accepted": ["septopus"]
+      "accepted": ["septopus"],
+      "explanation": "Hank is technically a 'septopus' since he's missing a tentacle; animating him was so complex Pixar called him their hardest character ever."
     },
     {
       "id": "pew-021",
       "prompt": "In Luca, what kind of creature is Luca when he's underwater?",
-      "answer": "Sea monster"
+      "answer": "Sea monster",
+      "explanation": "Director Enrico Casarosa based Luca (2021) on his own childhood summers in the Italian Riviera town of Genoa."
     },
     {
       "id": "pew-022",
       "prompt": "In Turning Red, what animal does Mei transform into?",
-      "answer": "Red panda"
+      "answer": "Red panda",
+      "explanation": "Turning Red (2022) was directed by Domee Shi, the first woman to solo-direct a Pixar feature; the red panda is a metaphor for puberty."
     },
     {
       "id": "pew-023",
       "prompt": "In Onward, what mythical creatures are the two brothers?",
-      "answer": "Elves"
+      "answer": "Elves",
+      "explanation": "Onward (2020) was one of the last films to screen in theaters before COVID closures; the elf brothers Ian and Barley are voiced by Tom Holland and Chris Pratt."
     },
     {
       "id": "pew-024",
       "prompt": "In Soul, what is the main character Joe's profession?",
       "answer": "Music teacher",
-      "accepted": ["jazz musician", "musician", "pianist"]
+      "accepted": ["jazz musician", "musician", "pianist"],
+      "explanation": "Joe Gardner is a middle-school band teacher who dreams of being a jazz pianist; he's voiced by Jamie Foxx, Pixar's first Black lead character."
     },
     {
       "id": "pew-025",
       "prompt": "In Elemental, the two main characters represent which two elements?",
-      "answer": "Fire and water"
+      "answer": "Fire and water",
+      "explanation": "Director Peter Sohn based Ember and Wade on his own experience as the child of Korean immigrants in New York; Elemental released in 2023."
     }
   ]
 }

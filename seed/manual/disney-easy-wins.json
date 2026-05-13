@@ -6,25 +6,124 @@
   "difficulty": "easy",
   "source": "manual",
   "questions": [
-    { "id": "dew-001", "prompt": "What kind of animal is Simba in The Lion King?", "answer": "Lion" },
-    { "id": "dew-002", "prompt": "Who is Ariel's father in The Little Mermaid?", "answer": "King Triton" },
-    { "id": "dew-003", "prompt": "Who voiced the Genie in Disney's 1992 Aladdin?", "answer": "Robin Williams" },
-    { "id": "dew-004", "prompt": "What is the name of the snowman in Frozen?", "answer": "Olaf" },
-    { "id": "dew-005", "prompt": "What year was Snow White and the Seven Dwarfs released?", "answer": "1937" },
-    { "id": "dew-006", "prompt": "What is the name of Mowgli's bear friend in The Jungle Book?", "answer": "Baloo" },
-    { "id": "dew-007", "prompt": "What city is The Princess and the Frog set in?", "answer": "New Orleans" },
-    { "id": "dew-008", "prompt": "Who is Mulan's tiny dragon sidekick?", "answer": "Mushu" },
-    { "id": "dew-009", "prompt": "What is the name of Peter Pan's fairy companion?", "answer": "Tinker Bell" },
-    { "id": "dew-010", "prompt": "Who is the villain in The Lion King?", "answer": "Scar" },
-    { "id": "dew-011", "prompt": "What is the name of Pocahontas' raccoon companion?", "answer": "Meeko" },
-    { "id": "dew-012", "prompt": "Who is Elsa's younger sister in Frozen?", "answer": "Anna" },
-    { "id": "dew-013", "prompt": "What is the name of the rabbit in Bambi?", "answer": "Thumper" },
-    { "id": "dew-014", "prompt": "Who is Hercules' winged horse?", "answer": "Pegasus" },
-    { "id": "dew-015", "prompt": "What is the name of Belle's father in Beauty and the Beast?", "answer": "Maurice" },
-    { "id": "dew-016", "prompt": "Which Disney princess has a pet tiger named Rajah?", "answer": "Jasmine" },
-    { "id": "dew-017", "prompt": "What is the name of the chameleon in Tangled?", "answer": "Pascal" },
-    { "id": "dew-018", "prompt": "What is Moana's pet pig's name?", "answer": "Pua" },
-    { "id": "dew-019", "prompt": "Which Disney film features the song 'A Whole New World'?", "answer": "Aladdin" },
-    { "id": "dew-020", "prompt": "Who is the candelabra in Beauty and the Beast?", "answer": "Lumière" }
+    {
+      "id": "dew-001",
+      "prompt": "What kind of animal is Simba in The Lion King?",
+      "answer": "Lion"
+    },
+    {
+      "id": "dew-002",
+      "prompt": "Who is Ariel's father in The Little Mermaid?",
+      "answer": "King Triton",
+      "explanation": "Triton rules the underwater kingdom of Atlantica in The Little Mermaid (1989) and wields a magical golden trident."
+    },
+    {
+      "id": "dew-003",
+      "prompt": "Who voiced the Genie in Disney's 1992 Aladdin?",
+      "answer": "Robin Williams",
+      "explanation": "Williams ad-libbed so much of the role that the film was disqualified from a Best Adapted Screenplay Oscar nomination."
+    },
+    {
+      "id": "dew-004",
+      "prompt": "What is the name of the snowman in Frozen?",
+      "answer": "Olaf",
+      "explanation": "Built by Anna and Elsa as kids, Olaf is brought to life by Elsa's magic and famously dreams of summer."
+    },
+    {
+      "id": "dew-005",
+      "prompt": "What year was Snow White and the Seven Dwarfs released?",
+      "answer": "1937",
+      "explanation": "It was Disney's first feature-length animated film and the first full-length cel-animated feature ever made in America."
+    },
+    {
+      "id": "dew-006",
+      "prompt": "What is the name of Mowgli's bear friend in The Jungle Book?",
+      "answer": "Baloo",
+      "explanation": "Baloo sings 'The Bare Necessities' and teaches Mowgli his easygoing philosophy in the 1967 Disney classic."
+    },
+    {
+      "id": "dew-007",
+      "prompt": "What city is The Princess and the Frog set in?",
+      "answer": "New Orleans",
+      "explanation": "Released in 2009 and set in Jazz Age Louisiana, it features Tiana as Disney's first Black princess."
+    },
+    {
+      "id": "dew-008",
+      "prompt": "Who is Mulan's tiny dragon sidekick?",
+      "answer": "Mushu",
+      "explanation": "Voiced by Eddie Murphy in Mulan (1998), Mushu is a disgraced family guardian trying to redeem himself."
+    },
+    {
+      "id": "dew-009",
+      "prompt": "What is the name of Peter Pan's fairy companion?",
+      "answer": "Tinker Bell",
+      "explanation": "Originally from J.M. Barrie's play, she appeared in Disney's 1953 Peter Pan and later became a Disney mascot."
+    },
+    {
+      "id": "dew-010",
+      "prompt": "Who is the villain in The Lion King?",
+      "answer": "Scar",
+      "explanation": "Mufasa's jealous younger brother, Scar plots with the hyenas and was voiced by Jeremy Irons in the 1994 film."
+    },
+    {
+      "id": "dew-011",
+      "prompt": "What is the name of Pocahontas' raccoon companion?",
+      "answer": "Meeko",
+      "explanation": "The mischievous food-obsessed raccoon constantly torments Governor Ratcliffe's pampered pug Percy throughout Pocahontas (1995)."
+    },
+    {
+      "id": "dew-012",
+      "prompt": "Who is Elsa's younger sister in Frozen?",
+      "answer": "Anna",
+      "explanation": "Anna's act of true love saving Elsa is what breaks the curse at the climax of Frozen (2013)."
+    },
+    {
+      "id": "dew-013",
+      "prompt": "What is the name of the rabbit in Bambi?",
+      "answer": "Thumper",
+      "explanation": "Named for how he thumps his back foot, Thumper delivers the famous line 'If you can't say something nice, don't say nothin' at all.'"
+    },
+    {
+      "id": "dew-014",
+      "prompt": "Who is Hercules' winged horse?",
+      "answer": "Pegasus",
+      "explanation": "In Disney's Hercules (1997), Pegasus is a baby gift from Zeus, magically formed out of a cloud."
+    },
+    {
+      "id": "dew-015",
+      "prompt": "What is the name of Belle's father in Beauty and the Beast?",
+      "answer": "Maurice",
+      "explanation": "Maurice is an eccentric inventor whose getting lost in the woods leads Belle to the Beast's castle in the 1991 film."
+    },
+    {
+      "id": "dew-016",
+      "prompt": "Which Disney princess has a pet tiger named Rajah?",
+      "answer": "Jasmine",
+      "explanation": "Rajah is Princess Jasmine's fiercely loyal Bengal tiger and constant palace companion in Aladdin (1992)."
+    },
+    {
+      "id": "dew-017",
+      "prompt": "What is the name of the chameleon in Tangled?",
+      "answer": "Pascal",
+      "explanation": "Rapunzel's silent green sidekick in Tangled (2010), Pascal communicates entirely through expressions and color changes."
+    },
+    {
+      "id": "dew-018",
+      "prompt": "What is Moana's pet pig's name?",
+      "answer": "Pua",
+      "explanation": "The adorable pig stays behind on Motunui in Moana (2016) while the dim-witted chicken Heihei accidentally joins the voyage."
+    },
+    {
+      "id": "dew-019",
+      "prompt": "Which Disney film features the song 'A Whole New World'?",
+      "answer": "Aladdin",
+      "explanation": "The magic carpet duet from Aladdin (1992) won the Oscar for Best Original Song that year."
+    },
+    {
+      "id": "dew-020",
+      "prompt": "Who is the candelabra in Beauty and the Beast?",
+      "answer": "Lumière",
+      "explanation": "The charming maître d' of the enchanted castle leads the showstopping 'Be Our Guest' number in the 1991 film."
+    }
   ]
 }

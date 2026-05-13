@@ -9,135 +9,154 @@
     {
       "id": "pf-001",
       "prompt": "What year was Toy Story released?",
-      "answer": "1995"
+      "answer": "1995",
+      "explanation": "Toy Story premiered in November 1995 as the world's first feature-length fully computer-animated film, directed by John Lasseter."
     },
     {
       "id": "pf-002",
       "prompt": "What year was Up released?",
-      "answer": "2009"
+      "answer": "2009",
+      "explanation": "Up (2009) was the first animated film and first 3D film ever to open the Cannes Film Festival, and the second animated Best Picture nominee."
     },
     {
       "id": "pf-003",
       "prompt": "Who directed Up, Inside Out, and Soul?",
-      "answer": "Pete Docter"
+      "answer": "Pete Docter",
+      "explanation": "Pete Docter is Pixar's Chief Creative Officer since 2018, succeeding John Lasseter; he's won three Best Animated Feature Oscars."
     },
     {
       "id": "pf-004",
       "prompt": "Who directed The Incredibles and Ratatouille?",
-      "answer": "Brad Bird"
+      "answer": "Brad Bird",
+      "explanation": "Brad Bird joined Pixar after directing The Iron Giant (1999); he also directed Incredibles 2 (2018) and live-action film Tomorrowland."
     },
     {
       "id": "pf-005",
       "prompt": "In which country is Coco set?",
-      "answer": "Mexico"
+      "answer": "Mexico",
+      "explanation": "Coco (2017) is set in the fictional Mexican town of Santa Cecilia; the film was named after Miguel's great-grandmother."
     },
     {
       "id": "pf-006",
       "prompt": "What instrument does Joe Gardner play in Soul?",
-      "answer": "Piano"
+      "answer": "Piano",
+      "explanation": "Jazz pianist Jon Batiste performed Joe's piano parts; the film's original score was composed by Trent Reznor and Atticus Ross of Nine Inch Nails."
     },
     {
       "id": "pf-007",
       "prompt": "What mythical creatures are the Lightfoot brothers in Onward?",
-      "answer": "Elves"
+      "answer": "Elves",
+      "explanation": "Onward (2020) is set in a suburban fantasy world where magic has been replaced by technology; brothers Ian and Barley are voiced by Tom Holland and Chris Pratt."
     },
     {
       "id": "pf-008",
       "prompt": "What year was Finding Nemo released?",
-      "answer": "2003"
+      "answer": "2003",
+      "explanation": "Finding Nemo (2003) was directed by Andrew Stanton and won the Best Animated Feature Oscar; it held the record for highest-grossing animated film for years."
     },
     {
       "id": "pf-009",
       "prompt": "What year was Ratatouille released?",
-      "answer": "2007"
+      "answer": "2007",
+      "explanation": "Ratatouille (2007) won Best Animated Feature; Brad Bird took over directing duties from Jan Pinkava just 18 months before release and reworked the story."
     },
     {
       "id": "pf-010",
       "prompt": "What year was WALL-E released?",
-      "answer": "2008"
+      "answer": "2008",
+      "explanation": "WALL-E (2008) was directed by Andrew Stanton; its first 40 minutes are nearly dialogue-free, an artistic risk that paid off with Oscar wins."
     },
     {
       "id": "pf-011",
       "prompt": "In Luca, what kind of creatures are Luca and Alberto?",
-      "answer": "Sea monsters"
+      "answer": "Sea monsters",
+      "explanation": "Luca and Alberto transform into human form when dry; the film draws visual inspiration from Hayao Miyazaki's Ponyo and Studio Ghibli."
     },
     {
       "id": "pf-012",
       "prompt": "In which Italian region is Luca set?",
       "answer": "Italian Riviera",
-      "accepted": [
-        "liguria",
-        "the italian riviera"
-      ]
+      "accepted": ["liguria", "the italian riviera"],
+      "explanation": "The fictional town of Portorosso was based on real Cinque Terre villages like Vernazza and Manarola in the Liguria region."
     },
     {
       "id": "pf-013",
       "prompt": "In Turning Red, what animal does Mei transform into?",
-      "answer": "Red panda"
+      "answer": "Red panda",
+      "explanation": "Director Domee Shi based the story on her own teenage years; Turning Red was Pixar's first feature directed solely by a woman."
     },
     {
       "id": "pf-014",
       "prompt": "In which Canadian city is Turning Red set?",
-      "answer": "Toronto"
+      "answer": "Toronto",
+      "explanation": "Turning Red (2022) is set in Toronto in 2002, with details like the CN Tower, SkyDome, and TTC streetcars based on director Domee Shi's hometown."
     },
     {
       "id": "pf-015",
       "prompt": "Which Pixar film won the Academy Award for Best Animated Feature in 2018?",
-      "answer": "Coco"
+      "answer": "Coco",
+      "explanation": "Coco won at the 2018 ceremony for the 2017 film; it also won Best Original Song for 'Remember Me' by Kristen Anderson-Lopez and Robert Lopez."
     },
     {
       "id": "pf-016",
       "prompt": "Who directed Coco?",
-      "answer": "Lee Unkrich"
+      "answer": "Lee Unkrich",
+      "explanation": "Lee Unkrich also directed Toy Story 3 (2010); Adrian Molina served as co-director on Coco and is now directing Coco 2."
     },
     {
       "id": "pf-017",
       "prompt": "What year was Brave released?",
-      "answer": "2012"
+      "answer": "2012",
+      "explanation": "Brave (2012) was Pixar's first film with a female protagonist and first directed by a woman (Brenda Chapman, before she was replaced by Mark Andrews)."
     },
     {
       "id": "pf-018",
       "prompt": "What is the name of the princess in Brave?",
-      "answer": "Merida"
+      "answer": "Merida",
+      "explanation": "Merida was officially inducted as the 11th Disney Princess in 2013; she's the only one created by Pixar rather than Walt Disney Animation."
     },
     {
       "id": "pf-019",
       "prompt": "In Elemental, what are the two main characters made of?",
-      "answer": "Fire and water"
+      "answer": "Fire and water",
+      "explanation": "Ember (fire) and Wade (water) live in Element City; the film is an immigration metaphor inspired by director Peter Sohn's Korean-American upbringing."
     },
     {
       "id": "pf-020",
       "prompt": "What year was Cars released?",
-      "answer": "2006"
+      "answer": "2006",
+      "explanation": "Cars (2006) was the final Pixar film produced before Disney acquired the studio in 2006 for $7.4 billion."
     },
     {
       "id": "pf-021",
       "prompt": "Who directed the original Cars?",
-      "answer": "John Lasseter"
+      "answer": "John Lasseter",
+      "explanation": "John Lasseter, Pixar's co-founder, also directed Toy Story 1 and 2, A Bug's Life, and Cars 2; he left the company in 2018."
     },
     {
       "id": "pf-022",
       "prompt": "What year was Monsters, Inc. released?",
-      "answer": "2001"
+      "answer": "2001",
+      "explanation": "Monsters, Inc. (2001) was Pete Docter's directorial debut and Pixar's fourth feature film; it earned over $577 million worldwide."
     },
     {
       "id": "pf-023",
       "prompt": "Which Pixar film is a prequel set in Monstropolis university?",
-      "answer": "Monsters University"
+      "answer": "Monsters University",
+      "explanation": "Monsters University (2013) shows how Mike and Sulley first met as rivals in college; it's Pixar's only prequel feature to date."
     },
     {
       "id": "pf-024",
       "prompt": "In Lightyear, who voices Buzz Lightyear?",
-      "answer": "Chris Evans"
+      "answer": "Chris Evans",
+      "explanation": "Lightyear (2022) is presented as the in-universe movie that inspired Andy's Buzz toy; Chris Evans replaced Tim Allen for the human Buzz role."
     },
     {
       "id": "pf-025",
       "prompt": "In Toy Story 3, who does Andy give his toys to at the end?",
       "answer": "Bonnie",
-      "accepted": [
-        "bonnie",
-        "bonnie anderson"
-      ]
+      "accepted": ["bonnie", "bonnie anderson"],
+      "explanation": "Toy Story 3 (2010) was the first animated film to gross over $1 billion; the toy-handoff finale made it the rare sequel to win Best Animated Feature."
     }
   ]
 }

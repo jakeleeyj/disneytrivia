@@ -9,127 +9,152 @@
     {
       "id": "daf-001",
       "prompt": "What year was The Lion King originally released?",
-      "answer": "1994"
+      "answer": "1994",
+      "explanation": "The Lion King was the highest-grossing film of 1994 and the top traditionally animated film ever; Hans Zimmer won an Oscar for the score."
     },
     {
       "id": "daf-002",
       "prompt": "What year was Beauty and the Beast released?",
-      "answer": "1991"
+      "answer": "1991",
+      "explanation": "Beauty and the Beast was the first animated film ever nominated for the Best Picture Oscar; the awards changed rules for it the next year."
     },
     {
       "id": "daf-003",
       "prompt": "What year was Mulan released?",
-      "answer": "1998"
+      "answer": "1998",
+      "explanation": "Mulan released between Hercules (1997) and Tarzan (1999); it was the first Disney animated feature based on a Chinese legend."
     },
     {
       "id": "daf-004",
       "prompt": "What year was Tangled released?",
-      "answer": "2010"
+      "answer": "2010",
+      "explanation": "Tangled was Disney's 50th animated feature and at the time the most expensive animated film ever made, costing around $260 million."
     },
     {
       "id": "daf-005",
       "prompt": "What year was Zootopia released?",
-      "answer": "2016"
+      "answer": "2016",
+      "explanation": "Zootopia won the 2017 Oscar for Best Animated Feature, beating Moana, which released the same year."
     },
     {
       "id": "daf-006",
       "prompt": "What year was Encanto released?",
-      "answer": "2021"
+      "answer": "2021",
+      "explanation": "Encanto blew up on TikTok in early 2022; 'We Don't Talk About Bruno' became the first Disney song to top the Billboard Hot 100 since 1993."
     },
     {
       "id": "daf-007",
       "prompt": "What is Stitch's experiment number in Lilo & Stitch?",
-      "answer": "626"
+      "answer": "626",
+      "explanation": "Experiment 626 is the number Jumba assigned Stitch; the date 6/26 is now informally celebrated as 'Stitch Day' by fans."
     },
     {
       "id": "daf-008",
       "prompt": "What is the name of Lilo's older sister in Lilo & Stitch?",
-      "answer": "Nani"
+      "answer": "Nani",
+      "explanation": "Nani is Lilo's struggling young legal guardian after their parents died; her name means 'beautiful' in Hawaiian."
     },
     {
       "id": "daf-009",
       "prompt": "In Encanto, what is the family surname?",
-      "answer": "Madrigal"
+      "answer": "Madrigal",
+      "explanation": "The Madrigals live in a magical 'casita' in the Colombian mountains; each family member except Mirabel has a magical gift."
     },
     {
       "id": "daf-010",
       "prompt": "What is the name of the lost city in Atlantis: The Lost Empire?",
-      "answer": "Atlantis"
+      "answer": "Atlantis",
+      "explanation": "Atlantis: The Lost Empire (2001) had a language created by Marc Okrand, the linguist who invented Klingon for Star Trek."
     },
     {
       "id": "daf-011",
       "prompt": "In Big Hero 6, what is the inflatable healthcare robot's name?",
-      "answer": "Baymax"
+      "answer": "Baymax",
+      "explanation": "Baymax is voiced by Scott Adsit; his rounded design was inspired by real soft robotics research at Carnegie Mellon University."
     },
     {
       "id": "daf-012",
       "prompt": "What city is Big Hero 6 set in?",
-      "answer": "San Fransokyo"
+      "answer": "San Fransokyo",
+      "explanation": "San Fransokyo is a fictional mashup of San Francisco and Tokyo; the bridge has torii-style gates and the buildings blend both skylines."
     },
     {
       "id": "daf-013",
       "prompt": "Who voiced Mulan's singing voice in the 1998 film?",
-      "answer": "Lea Salonga"
+      "answer": "Lea Salonga",
+      "explanation": "Lea Salonga also provided the singing voice for Jasmine in Aladdin (1992); Ming-Na Wen handled Mulan's speaking voice."
     },
     {
       "id": "daf-014",
       "prompt": "Who voiced Hercules in the 1997 Disney film?",
-      "answer": "Tate Donovan"
+      "answer": "Tate Donovan",
+      "explanation": "Tate Donovan voiced the speaking Hercules; Roger Bart sang the songs, and teen Hercules was voiced by a young Joshua Keaton."
     },
     {
       "id": "daf-015",
       "prompt": "Who voiced Quasimodo in The Hunchback of Notre Dame?",
-      "answer": "Tom Hulce"
+      "answer": "Tom Hulce",
+      "explanation": "Tom Hulce also played Mozart in Amadeus (1984); The Hunchback of Notre Dame (1996) is one of Disney's darkest animated features."
     },
     {
       "id": "daf-016",
       "prompt": "Who voiced Tarzan in the 1999 Disney film?",
-      "answer": "Tony Goldwyn"
+      "answer": "Tony Goldwyn",
+      "explanation": "Tony Goldwyn later became famous as President Fitzgerald Grant on Scandal; Phil Collins wrote and performed the Oscar-winning soundtrack."
     },
     {
       "id": "daf-017",
       "prompt": "Who voiced Rapunzel in Tangled?",
-      "answer": "Mandy Moore"
+      "answer": "Mandy Moore",
+      "explanation": "Mandy Moore had already had a pop career before voicing Rapunzel; she sang the Oscar-nominated 'I See the Light' with co-star Zachary Levi."
     },
     {
       "id": "daf-018",
       "prompt": "Who voiced Judy Hopps in Zootopia?",
-      "answer": "Ginnifer Goodwin"
+      "answer": "Ginnifer Goodwin",
+      "explanation": "Ginnifer Goodwin played Snow White on Once Upon a Time before voicing Judy, Zootopia's first bunny police officer."
     },
     {
       "id": "daf-019",
       "prompt": "Who voiced Nick Wilde in Zootopia?",
-      "answer": "Jason Bateman"
+      "answer": "Jason Bateman",
+      "explanation": "Jason Bateman replaced Jason Sudeikis, who was originally attached; Nick is a fast-talking fox conman who becomes Judy's partner."
     },
     {
       "id": "daf-020",
       "prompt": "What is the name of the dog in Bolt who thinks he has superpowers?",
-      "answer": "Bolt"
+      "answer": "Bolt",
+      "explanation": "Bolt is a white American shepherd voiced by John Travolta; the film was a turning point that led to Disney's late-2000s revival."
     },
     {
       "id": "daf-021",
       "prompt": "In Wreck-It Ralph, what is the name of the racing game Vanellope lives in?",
-      "answer": "Sugar Rush"
+      "answer": "Sugar Rush",
+      "explanation": "Sugar Rush is a candy-themed kart racer parody; the arcade hub Game Central Station was inspired by New York's Grand Central Terminal."
     },
     {
       "id": "daf-022",
       "prompt": "In Brother Bear, what is the name of the human protagonist who transforms into a bear?",
-      "answer": "Kenai"
+      "answer": "Kenai",
+      "explanation": "Kenai is voiced by Joaquin Phoenix in Brother Bear (2003); the film was nominated for the Best Animated Feature Oscar."
     },
     {
       "id": "daf-023",
       "prompt": "What is the name of the protagonist in Treasure Planet?",
-      "answer": "Jim Hawkins"
+      "answer": "Jim Hawkins",
+      "explanation": "Treasure Planet (2002) is a sci-fi retelling of Treasure Island; it famously bombed at the box office despite a passionate cult following."
     },
     {
       "id": "daf-024",
       "prompt": "What is the name of the protagonist's pet rooster in Moana?",
-      "answer": "Heihei"
+      "answer": "Heihei",
+      "explanation": "Heihei was nearly cut from the film; directors Ron Clements and John Musker fought to keep him after Alan Tudyk improvised the squawks."
     },
     {
       "id": "daf-025",
       "prompt": "In Raya and the Last Dragon, what is the name of the last dragon?",
-      "answer": "Sisu"
+      "answer": "Sisu",
+      "explanation": "Sisu is voiced by Awkwafina; the film draws from Southeast Asian cultures and was Disney's first to feature a Southeast Asian princess."
     }
   ]
 }

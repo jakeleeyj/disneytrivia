@@ -9,110 +9,124 @@
     {
       "id": "dv-001",
       "prompt": "Who is the sea witch villain in The Little Mermaid?",
-      "answer": "Ursula"
+      "answer": "Ursula",
+      "explanation": "The half-octopus sorceress tricks Ariel into trading her voice for legs in The Little Mermaid (1989)."
     },
     {
       "id": "dv-002",
       "prompt": "Who voiced Scar in The Lion King (1994)?",
-      "answer": "Jeremy Irons"
+      "answer": "Jeremy Irons",
+      "explanation": "Irons' silky menacing delivery on 'Be Prepared' became one of the most quoted villain performances in Disney history."
     },
     {
       "id": "dv-003",
       "prompt": "What is the name of Maleficent's pet raven?",
-      "answer": "Diablo"
+      "answer": "Diablo",
+      "explanation": "In the original 1959 Sleeping Beauty, Diablo serves as Maleficent's spy and is turned to stone by the good fairies."
     },
     {
       "id": "dv-004",
       "prompt": "What is the villain's full name in 101 Dalmatians?",
-      "answer": "Cruella de Vil"
+      "answer": "Cruella de Vil",
+      "explanation": "Her name is a pun on 'cruel devil' and she wants the puppies skinned to make a spotted fur coat."
     },
     {
       "id": "dv-005",
       "prompt": "Who is the villain in Sleeping Beauty?",
-      "answer": "Maleficent"
+      "answer": "Maleficent",
+      "explanation": "The self-styled Mistress of All Evil curses Princess Aurora and transforms into a giant dragon in the 1959 film's climax."
     },
     {
       "id": "dv-006",
       "prompt": "Who is Jafar's wisecracking parrot in Aladdin?",
-      "answer": "Iago"
+      "answer": "Iago",
+      "explanation": "Voiced by Gilbert Gottfried in Aladdin (1992), his name nods to the scheming villain of Shakespeare's Othello."
     },
     {
       "id": "dv-007",
       "prompt": "Who is the villain in Tangled?",
-      "answer": "Mother Gothel"
+      "answer": "Mother Gothel",
+      "explanation": "She kidnaps Rapunzel as a baby and uses the magic of her golden hair to stay youthful for centuries in Tangled (2010)."
     },
     {
       "id": "dv-008",
       "prompt": "What is Captain Hook's first name in Peter Pan?",
-      "answer": "James"
+      "answer": "James",
+      "explanation": "He was originally James Bartholomew Hook in J.M. Barrie's lore, before losing his hand to the crocodile."
     },
     {
       "id": "dv-009",
       "prompt": "Who is the shadow-summoning villain in The Princess and the Frog?",
       "answer": "Dr. Facilier",
-      "accepted": [
-        "shadow man",
-        "the shadow man"
-      ]
+      "accepted": ["shadow man", "the shadow man"],
+      "explanation": "The voodoo bokor of New Orleans owes a debt to his 'friends on the other side' in The Princess and the Frog (2009)."
     },
     {
       "id": "dv-010",
       "prompt": "Who is the villain in Hercules?",
-      "answer": "Hades"
+      "answer": "Hades",
+      "explanation": "The fast-talking lord of the Underworld plots to overthrow Zeus and rule Olympus in Hercules (1997)."
     },
     {
       "id": "dv-011",
       "prompt": "Who voiced Hades in Hercules (1997)?",
-      "answer": "James Woods"
+      "answer": "James Woods",
+      "explanation": "Woods improvised so much of Hades' rapid-fire dialogue that he has reprised the role in nearly every Disney sequel and series since."
     },
     {
       "id": "dv-012",
       "prompt": "What does the Evil Queen demand from the Huntsman in Snow White?",
-      "answer": "Snow White's heart"
+      "answer": "Snow White's heart",
+      "explanation": "She orders it brought back in a jeweled box as proof of the kill, but the Huntsman spares Snow White and substitutes a pig's heart."
     },
     {
       "id": "dv-013",
       "prompt": "Who is the arrogant villain in Beauty and the Beast?",
-      "answer": "Gaston"
+      "answer": "Gaston",
+      "explanation": "The vain hunter leads a mob to kill the Beast and falls from the castle tower in Beauty and the Beast (1991)."
     },
     {
       "id": "dv-014",
       "prompt": "Who voiced Ursula in The Little Mermaid (1989)?",
-      "answer": "Pat Carroll"
+      "answer": "Pat Carroll",
+      "explanation": "Carroll based the voice partly on a witchy theatrical persona; Ursula's look was inspired by drag performer Divine."
     },
     {
       "id": "dv-015",
       "prompt": "Who is the twist villain in Frozen (2013)?",
-      "answer": "Prince Hans"
+      "answer": "Prince Hans",
+      "explanation": "The thirteenth-in-line prince of the Southern Isles woos Anna only to seize Arendelle's throne for himself."
     },
     {
       "id": "dv-016",
       "prompt": "Who is the witch villain in The Emperor's New Groove?",
-      "answer": "Yzma"
+      "answer": "Yzma",
+      "explanation": "Emperor Kuzco's scheming advisor turns him into a llama with a botched potion in The Emperor's New Groove (2000)."
     },
     {
       "id": "dv-017",
       "prompt": "What is the name of Yzma's hulking sidekick?",
-      "answer": "Kronk"
+      "answer": "Kronk",
+      "explanation": "The sweet-natured henchman talks to squirrels, makes spinach puffs, and has a shoulder angel and devil who argue over his choices."
     },
     {
       "id": "dv-018",
       "prompt": "Who is the Hun villain in Mulan?",
-      "answer": "Shan Yu"
+      "answer": "Shan Yu",
+      "explanation": "The brutal Hun leader invades China with his army and is defeated by Mulan with fireworks atop the Imperial Palace in Mulan (1998)."
     },
     {
       "id": "dv-019",
       "prompt": "What is Gaston's loyal sidekick called?",
-      "answer": "LeFou"
+      "answer": "LeFou",
+      "explanation": "His name literally means 'the fool' in French and he leads the tavern crowd in the song 'Gaston.'"
     },
     {
       "id": "dv-020",
       "prompt": "What is the villain's name in The Hunchback of Notre Dame?",
       "answer": "Frollo",
-      "accepted": [
-        "judge claude frollo",
-        "claude frollo"
-      ]
+      "accepted": ["judge claude frollo", "claude frollo"],
+      "explanation": "The Parisian judge obsessed with Esmeralda sings 'Hellfire' in Disney's 1996 adaptation of the Victor Hugo novel."
     }
   ]
 }

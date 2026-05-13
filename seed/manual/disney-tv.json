@@ -9,66 +9,78 @@
     {
       "id": "dtv-001",
       "prompt": "Who played Hannah Montana?",
-      "answer": "Miley Cyrus"
+      "answer": "Miley Cyrus",
+      "explanation": "Miley Cyrus (real name Destiny Hope Cyrus) played both Miley Stewart and her pop-star alter ego across four seasons from 2006 to 2011."
     },
     {
       "id": "dtv-002",
       "prompt": "What is Phineas and Ferb's pet platypus named?",
-      "answer": "Perry"
+      "answer": "Perry",
+      "explanation": "Perry the Platypus leads a double life as Agent P, a secret agent for the O.W.C.A. who battles Dr. Doofenshmirtz."
     },
     {
       "id": "dtv-003",
       "prompt": "In Kim Possible, what is the name of her sidekick?",
       "answer": "Ron Stoppable",
-      "accepted": ["Ron"]
+      "accepted": ["Ron"],
+      "explanation": "Ron Stoppable, voiced by Will Friedle, is Kim's bumbling best friend who later becomes her boyfriend across the show's 2002-2007 run."
     },
     {
       "id": "dtv-004",
       "prompt": "Who played the title character in Lizzie McGuire?",
-      "answer": "Hilary Duff"
+      "answer": "Hilary Duff",
+      "explanation": "Hilary Duff starred as Lizzie from 2001 to 2004, with an animated inner-Lizzie cartoon voicing her unspoken thoughts."
     },
     {
       "id": "dtv-005",
       "prompt": "What are the names of the twin brothers in The Suite Life of Zack & Cody?",
       "answer": "Zack and Cody",
-      "accepted": ["Cody and Zack"]
+      "accepted": ["Cody and Zack"],
+      "explanation": "Identical twins Dylan and Cole Sprouse played Zack and Cody Martin, who lived in the Tipton Hotel where their mom worked as a singer."
     },
     {
       "id": "dtv-006",
       "prompt": "In Gravity Falls, what are the twins' names?",
       "answer": "Dipper and Mabel",
-      "accepted": ["Mabel and Dipper"]
+      "accepted": ["Mabel and Dipper"],
+      "explanation": "Dipper and Mabel Pines spend a summer in Oregon with Grunkle Stan; creator Alex Hirsch voices both Stan and Soos."
     },
     {
       "id": "dtv-007",
       "prompt": "What is the name of the high school in High School Musical?",
-      "answer": "East High"
+      "answer": "East High",
+      "explanation": "East High is based on a real Salt Lake City school where the 2006 film was shot; its hallways still draw Disney fans today."
     },
     {
       "id": "dtv-008",
       "prompt": "Who played Raven Baxter in That's So Raven?",
-      "answer": "Raven-Symoné"
+      "answer": "Raven-Symoné",
+      "explanation": "Raven-Symoné had already starred on The Cosby Show as a child before leading That's So Raven from 2003 to 2007."
     },
     {
       "id": "dtv-009",
       "prompt": "What is the family surname in Wizards of Waverly Place?",
-      "answer": "Russo"
+      "answer": "Russo",
+      "explanation": "The Russo family runs a sandwich shop on Waverly Place in Greenwich Village while the three kids compete to keep their wizard powers."
     },
     {
       "id": "dtv-010",
       "prompt": "Who played Alex Russo in Wizards of Waverly Place?",
-      "answer": "Selena Gomez"
+      "answer": "Selena Gomez",
+      "explanation": "Selena Gomez played Alex from 2007 to 2012, winning the family wizard competition and launching her music and acting career."
     },
     {
       "id": "dtv-011",
       "prompt": "What is the name of Kim Possible's naked mole rat?",
-      "answer": "Rufus"
+      "answer": "Rufus",
+      "explanation": "Rufus lives in Ron Stoppable's pocket and was voiced by Nancy Cartwright, who also voices Bart Simpson."
     },
     {
       "id": "dtv-012",
       "prompt": "In Phineas and Ferb, what is the evil scientist's name?",
       "answer": "Doofenshmirtz",
-      "accepted": ["Dr. Doofenshmirtz", "Heinz Doofenshmirtz"]
+      "accepted": ["Dr. Doofenshmirtz", "Heinz Doofenshmirtz"],
+      "explanation": "Heinz Doofenshmirtz, voiced by co-creator Dan Povenmire, runs Doofenshmirtz Evil Incorporated and invents a new '-inator' each episode."
     },
     {
       "id": "dtv-013",
@@ -79,66 +91,78 @@
       "id": "dtv-014",
       "prompt": "Who is the great-uncle running the Mystery Shack in Gravity Falls?",
       "answer": "Stan",
-      "accepted": ["Grunkle Stan", "Stanley", "Stan Pines"]
+      "accepted": ["Grunkle Stan", "Stanley", "Stan Pines"],
+      "explanation": "Stanley Pines runs the tourist-trap Mystery Shack while secretly trying to rescue his twin brother Ford from another dimension."
     },
     {
       "id": "dtv-015",
       "prompt": "In DuckTales, what is the name of Scrooge McDuck's money vault building?",
-      "answer": "Money Bin"
+      "answer": "Money Bin",
+      "explanation": "Scrooge swims through his cash in the Money Bin atop Killmotor Hill in Duckburg, a gag created by cartoonist Carl Barks in 1953."
     },
     {
       "id": "dtv-016",
       "prompt": "What are the names of Donald Duck's three nephews?",
-      "answer": "Huey, Dewey, and Louie"
+      "answer": "Huey, Dewey, and Louie",
+      "explanation": "Huey, Dewey, and Louie debuted in a 1937 newspaper comic; in the 2017 DuckTales reboot they were finally given distinct personalities."
     },
     {
       "id": "dtv-017",
       "prompt": "In The Owl House, what is the name of the human protagonist?",
       "answer": "Luz",
-      "accepted": ["Luz Noceda"]
+      "accepted": ["Luz Noceda"],
+      "explanation": "Luz Noceda is a Dominican-American teen and Disney's first openly bisexual lead character, voiced by Sarah-Nicole Robles."
     },
     {
       "id": "dtv-018",
       "prompt": "What Disney Junior show features a young pirate named Jake?",
-      "answer": "Jake and the Never Land Pirates"
+      "answer": "Jake and the Never Land Pirates",
+      "explanation": "Jake and the Never Land Pirates ran from 2011 to 2016 and is set in Peter Pan's Neverland, with Captain Hook as the recurring villain."
     },
     {
       "id": "dtv-019",
       "prompt": "In Recess, what is the name of the leader of the kids' gang?",
       "answer": "T.J. Detweiler",
-      "accepted": ["TJ", "T.J.", "TJ Detweiler"]
+      "accepted": ["TJ", "T.J.", "TJ Detweiler"],
+      "explanation": "Theodore Jasper 'T.J.' Detweiler leads the playground gang of six at Third Street School; Recess aired on ABC's One Saturday Morning from 1997."
     },
     {
       "id": "dtv-020",
       "prompt": "Who played Miranda, Lizzie McGuire's best friend?",
-      "answer": "Lalaine"
+      "answer": "Lalaine",
+      "explanation": "Lalaine Vergara-Paras played Miranda Sanchez but didn't appear in the show's final season, with the character said to be visiting Mexico City."
     },
     {
       "id": "dtv-021",
       "prompt": "What is the name of Hannah Montana's brother on the show?",
-      "answer": "Jackson"
+      "answer": "Jackson",
+      "explanation": "Jackson Stewart, played by Jason Earles, is Miley's older brother; Earles was 28 when cast as a high schooler."
     },
     {
       "id": "dtv-022",
       "prompt": "In That's So Raven, what is Raven's special ability?",
       "answer": "Seeing the future",
-      "accepted": ["psychic visions", "visions", "premonitions"]
+      "accepted": ["psychic visions", "visions", "premonitions"],
+      "explanation": "Raven gets brief psychic flashes that she usually misinterprets, driving each episode's comedic chaos."
     },
     {
       "id": "dtv-023",
       "prompt": "What Disney Junior show stars a Latina princess and her amulet?",
-      "answer": "Elena of Avalor"
+      "answer": "Elena of Avalor",
+      "explanation": "Elena of Avalor (2016-2020) was Disney's first Latina princess franchise; her Amulet of Avalor traps the sorceress Shuriki for 41 years."
     },
     {
       "id": "dtv-024",
       "prompt": "In WandaVision, what is the name of the town the series is set in?",
-      "answer": "Westview"
+      "answer": "Westview",
+      "explanation": "Westview, New Jersey is the suburb Wanda magically traps under the Hex; the 2021 series was the first Marvel show on Disney+."
     },
     {
       "id": "dtv-025",
       "prompt": "What is the name of the hotel in The Suite Life of Zack & Cody?",
       "answer": "Tipton",
-      "accepted": ["The Tipton", "Tipton Hotel"]
+      "accepted": ["The Tipton", "Tipton Hotel"],
+      "explanation": "The Tipton Hotel is a parody of the Hilton, with heiress London Tipton standing in for Paris Hilton."
     }
   ]
 }

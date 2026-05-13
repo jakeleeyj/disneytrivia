@@ -9,111 +9,124 @@
     {
       "id": "pdc-001",
       "prompt": "What alphanumeric code appears as an Easter egg in every Pixar film?",
-      "answer": "A113"
+      "answer": "A113",
+      "explanation": "A113 is the classroom number at CalArts where many Pixar animators (including John Lasseter and Brad Bird) studied — it appears in nearly every Pixar film."
     },
     {
       "id": "pdc-002",
       "prompt": "Who voiced Woody in the Toy Story films?",
-      "answer": "Tom Hanks"
+      "answer": "Tom Hanks",
+      "explanation": "Tom Hanks has voiced Woody in every Toy Story film since 1995; his brother Jim Hanks often fills in for shorts, video games, and theme park rides."
     },
     {
       "id": "pdc-003",
       "prompt": "Who voiced Buzz Lightyear in the original Toy Story?",
-      "answer": "Tim Allen"
+      "answer": "Tim Allen",
+      "explanation": "Tim Allen was cast after Billy Crystal turned the role down — Crystal regretted it so much he later took the Mike Wazowski role in Monsters, Inc."
     },
     {
       "id": "pdc-004",
       "prompt": "What is the name of Carl's deceased wife in Up?",
-      "answer": "Ellie"
+      "answer": "Ellie",
+      "explanation": "Ellie's silent four-minute life montage at the start of Up (2009) is considered one of the most emotionally powerful sequences in animation history."
     },
     {
       "id": "pdc-005",
       "prompt": "What breed of dog is Dug in Up?",
-      "answer": "Golden Retriever"
+      "answer": "Golden Retriever",
+      "explanation": "Dug was voiced and co-created by Pixar story artist Bob Peterson, who also co-directed Up; the talking-dog collar is the character's signature gag."
     },
     {
       "id": "pdc-006",
       "prompt": "Where does Carl dream of taking his house in Up?",
-      "answer": "Paradise Falls"
+      "answer": "Paradise Falls",
+      "explanation": "Paradise Falls is based on the real Angel Falls in Venezuela, the world's tallest waterfall, which Pixar's team visited for research."
     },
     {
       "id": "pdc-007",
       "prompt": "What is Boo's real name in Monsters, Inc.?",
-      "answer": "Mary"
+      "answer": "Mary",
+      "explanation": "Boo's real name is revealed only briefly when Sulley reads 'Mary Gibbs' on her drawings; she's voiced by the daughter of story artist Rob Gibbs."
     },
     {
       "id": "pdc-008",
       "prompt": "What kind of fish is Dory in Finding Nemo?",
       "answer": "Pacific Regal Blue Tang",
-      "accepted": [
-        "blue tang",
-        "regal blue tang",
-        "tang"
-      ]
+      "accepted": ["blue tang", "regal blue tang", "tang"],
+      "explanation": "Blue tangs cannot be bred in captivity, so the species was placed on conservation watch after Finding Dory (2016) sparked a new wave of demand."
     },
     {
       "id": "pdc-009",
       "prompt": "What is the dentist's office address in Finding Nemo?",
       "answer": "P. Sherman, 42 Wallaby Way, Sydney",
-      "accepted": [
-        "42 wallaby way",
-        "42 wallaby way sydney"
-      ]
+      "accepted": ["42 wallaby way", "42 wallaby way sydney"],
+      "explanation": "The address is fictional but the street name is a nod to Wallaby Way in Sydney; the line became one of the most quoted in 2000s animation."
     },
     {
       "id": "pdc-010",
       "prompt": "What is the rat's name in Ratatouille?",
-      "answer": "Remy"
+      "answer": "Remy",
+      "explanation": "Remy is voiced by comedian Patton Oswalt; director Brad Bird cast him after seeing one of his stand-up bits about loving food."
     },
     {
       "id": "pdc-011",
       "prompt": "Who is the food critic in Ratatouille?",
-      "answer": "Anton Ego"
+      "answer": "Anton Ego",
+      "explanation": "Anton Ego is voiced by Peter O'Toole; his climactic Proustian flashback to his mother's ratatouille is one of Pixar's most celebrated scenes."
     },
     {
       "id": "pdc-012",
       "prompt": "What does WALL-E stand for?",
-      "answer": "Waste Allocation Load Lifter: Earth-class"
+      "answer": "Waste Allocation Load Lifter: Earth-class",
+      "explanation": "EVE's name (Extraterrestrial Vegetation Evaluator) is the counterpart acronym; WALL-E's voice was designed by Ben Burtt, the sound designer behind R2-D2."
     },
     {
       "id": "pdc-013",
       "prompt": "What is Mr. Incredible's real name?",
-      "answer": "Bob Parr"
+      "answer": "Bob Parr",
+      "explanation": "Bob is voiced by Craig T. Nelson; his civilian job at Insuracare is a satire of corporate desk life that director Brad Bird drew from personal frustration."
     },
     {
       "id": "pdc-014",
       "prompt": "What are the five core emotions in Inside Out?",
-      "answer": "Joy, Sadness, Anger, Fear, Disgust"
+      "answer": "Joy, Sadness, Anger, Fear, Disgust",
+      "explanation": "Pixar consulted psychologists Paul Ekman and Dacher Keltner to pick the emotions; Inside Out 2 (2024) added Anxiety, Envy, Embarrassment, and Ennui."
     },
     {
       "id": "pdc-015",
       "prompt": "Which Pixar film was the first feature-length computer-animated movie?",
-      "answer": "Toy Story"
+      "answer": "Toy Story",
+      "explanation": "Toy Story (1995) was directed by John Lasseter and is the first fully CGI feature; Steve Jobs owned Pixar at the time and took it public weeks after release."
     },
     {
       "id": "pdc-016",
       "prompt": "What city does Lightning McQueen get stranded in during Cars?",
-      "answer": "Radiator Springs"
+      "answer": "Radiator Springs",
+      "explanation": "Radiator Springs is inspired by real Route 66 towns; John Lasseter drove the historic highway twice while researching Cars (2006)."
     },
     {
       "id": "pdc-017",
       "prompt": "What is the name of Sully's best friend in Monsters, Inc.?",
-      "answer": "Mike Wazowski"
+      "answer": "Mike Wazowski",
+      "explanation": "Mike is voiced by Billy Crystal, who improvised much of his dialogue; Crystal famously regretted turning down Buzz Lightyear and jumped at this role."
     },
     {
       "id": "pdc-018",
       "prompt": "What is the name of Andy's dog in Toy Story?",
-      "answer": "Buster"
+      "answer": "Buster",
+      "explanation": "Buster the dachshund is introduced as a puppy in Toy Story 2 and appears as an elderly dog in Toy Story 3 (2010)."
     },
     {
       "id": "pdc-019",
       "prompt": "Which Pixar film features a chef named Linguini?",
-      "answer": "Ratatouille"
+      "answer": "Ratatouille",
+      "explanation": "Alfredo Linguini is voiced by Lou Romano; his name, like most kitchen staff in the film, is a pasta-themed pun."
     },
     {
       "id": "pdc-020",
       "prompt": "What Pixar short film featured a desk lamp that became their logo?",
-      "answer": "Luxo Jr."
+      "answer": "Luxo Jr.",
+      "explanation": "Luxo Jr. (1986) was directed by John Lasseter and was the first CGI short nominated for an Academy Award; the bouncing lamp has opened every Pixar film since."
     }
   ]
 }

@@ -9,155 +9,160 @@
     {
       "id": "pc-001",
       "prompt": "What is the name of the cowgirl doll introduced in Toy Story 2?",
-      "answer": "Jessie"
+      "answer": "Jessie",
+      "explanation": "Jessie is voiced by Joan Cusack; her backstory song 'When She Loved Me' performed by Sarah McLachlan is one of Pixar's most heartbreaking moments."
     },
     {
       "id": "pc-002",
       "prompt": "What is the name of Jessie's horse in the Toy Story films?",
-      "answer": "Bullseye"
+      "answer": "Bullseye",
+      "explanation": "Bullseye never speaks but communicates with expressive whinnies and movement; he's animated like a loyal dog more than a horse."
     },
     {
       "id": "pc-003",
       "prompt": "What is the name of the pink strawberry-scented bear villain in Toy Story 3?",
       "answer": "Lots-o'-Huggin' Bear",
-      "accepted": [
-        "Lotso",
-        "Lots-o",
-        "Lotso Huggin Bear"
-      ]
+      "accepted": ["Lotso", "Lots-o", "Lotso Huggin Bear"],
+      "explanation": "Lotso is voiced by Ned Beatty; the character was originally conceived for the first Toy Story but cut due to fur-rendering limitations at the time."
     },
     {
       "id": "pc-004",
       "prompt": "What is the name of the spork toy Bonnie creates in Toy Story 4?",
-      "answer": "Forky"
+      "answer": "Forky",
+      "explanation": "Forky is voiced by Tony Hale; his existential crisis about being trash inspired the spinoff series 'Forky Asks a Question' on Disney+."
     },
     {
       "id": "pc-005",
       "prompt": "Who is the toy-torturing neighbor kid in the original Toy Story?",
-      "answer": "Sid"
+      "answer": "Sid",
+      "explanation": "Sid Phillips makes a brief cameo in Toy Story 3 as the garbage collector; the same actor, Erik von Detten, voiced him in both films."
     },
     {
       "id": "pc-006",
       "prompt": "Who is Mr. Incredible's wife in The Incredibles?",
       "answer": "Helen Parr",
-      "accepted": [
-        "Elastigirl",
-        "Mrs. Incredible",
-        "Helen"
-      ]
+      "accepted": ["Elastigirl", "Mrs. Incredible", "Helen"],
+      "explanation": "Helen Parr is voiced by Holly Hunter; Elastigirl was originally going to be Mr. Incredible's mother in an earlier script before Brad Bird reworked it."
     },
     {
       "id": "pc-007",
       "prompt": "What is the name of the Parr family's invisible teenage daughter?",
-      "answer": "Violet"
+      "answer": "Violet",
+      "explanation": "Violet is voiced by Sarah Vowell, a writer and radio personality who had never acted before; her power is invisibility and force fields."
     },
     {
       "id": "pc-008",
       "prompt": "What is the name of the Parr family baby with emerging powers?",
-      "answer": "Jack-Jack"
+      "answer": "Jack-Jack",
+      "explanation": "Jack-Jack displays at least 17 different powers in Incredibles 2 (2018), making him the most powerful member of the family."
     },
     {
       "id": "pc-009",
       "prompt": "Who is the diminutive superhero costume designer in The Incredibles?",
       "answer": "Edna Mode",
-      "accepted": [
-        "Edna"
-      ]
+      "accepted": ["Edna"],
+      "explanation": "Edna Mode is voiced by director Brad Bird himself; her design blends Edith Head, Linda Hunt, and Anna Wintour into one fashion icon."
     },
     {
       "id": "pc-010",
       "prompt": "Who is the ice-powered superhero best friend of Mr. Incredible?",
-      "answer": "Frozone"
+      "answer": "Frozone",
+      "explanation": "Frozone is voiced by Samuel L. Jackson; his exasperated 'Where is my super suit?!' scene is one of the most quoted lines in Pixar history."
     },
     {
       "id": "pc-011",
       "prompt": "Who is the main villain in The Incredibles?",
-      "answer": "Syndrome"
+      "answer": "Syndrome",
+      "explanation": "Syndrome (real name Buddy Pine) is voiced by Jason Lee; his obsession-with-his-idol arc echoes the Joker's relationship with Batman."
     },
     {
       "id": "pc-012",
       "prompt": "Who is Nemo's overprotective clownfish father in Finding Nemo?",
-      "answer": "Marlin"
+      "answer": "Marlin",
+      "explanation": "Marlin's overprotectiveness stems from losing his wife Coral and all but one egg to a barracuda in the film's opening minutes."
     },
     {
       "id": "pc-013",
       "prompt": "Who is the leader of the fish tank gang in Finding Nemo?",
-      "answer": "Gill"
+      "answer": "Gill",
+      "explanation": "Gill is a Moorish idol voiced by Willem Dafoe; he serves as Nemo's mentor figure during his time in the dentist's tank."
     },
     {
       "id": "pc-014",
       "prompt": "What is the name of the laid-back sea turtle in Finding Nemo?",
-      "answer": "Crush"
+      "answer": "Crush",
+      "explanation": "Crush is voiced by director Andrew Stanton himself; the surfer-dude dialogue was largely improvised during recording sessions."
     },
     {
       "id": "pc-015",
       "prompt": "What is the name of the chameleon villain in Monsters, Inc.?",
       "answer": "Randall",
-      "accepted": [
-        "Randall Boggs"
-      ]
+      "accepted": ["Randall Boggs"],
+      "explanation": "Randall Boggs is voiced by Steve Buscemi; his ability to camouflage was inspired by chameleons and cephalopods like cuttlefish."
     },
     {
       "id": "pc-016",
       "prompt": "Who is the rusty tow truck and best friend of Lightning McQueen?",
-      "answer": "Mater"
+      "answer": "Mater",
+      "explanation": "Mater is based on a real 1956-ish International Harvester tow truck spotted by the Cars team in Galena, Kansas during Route 66 research."
     },
     {
       "id": "pc-017",
       "prompt": "Who is the blue Porsche and love interest in Cars?",
       "answer": "Sally",
-      "accepted": [
-        "Sally Carrera"
-      ]
+      "accepted": ["Sally Carrera"],
+      "explanation": "Sally Carrera is voiced by Bonnie Hunt; she's modeled after a 2002 Porsche 911 Carrera, and her name doubles as the car model name."
     },
     {
       "id": "pc-018",
       "prompt": "Who is the wilderness explorer scout who stows away on Carl's house in Up?",
-      "answer": "Russell"
+      "answer": "Russell",
+      "explanation": "Russell's design was based on Pixar story artist Peter Sohn, who later directed The Good Dinosaur and Elemental."
     },
     {
       "id": "pc-019",
       "prompt": "Who is the villainous explorer Carl idolized as a boy in Up?",
-      "answer": "Charles Muntz"
+      "answer": "Charles Muntz",
+      "explanation": "Charles Muntz is voiced by Christopher Plummer; his name is a nod to Charles Mintz, the producer who took Oswald the Lucky Rabbit from Walt Disney."
     },
     {
       "id": "pc-020",
       "prompt": "Who is the human chef and garbage boy taught to cook by Remy in Ratatouille?",
       "answer": "Linguini",
-      "accepted": [
-        "Alfredo Linguini"
-      ]
+      "accepted": ["Alfredo Linguini"],
+      "explanation": "Alfredo Linguini is revealed to be the late chef Gusteau's biological son, which is why he inherited the restaurant."
     },
     {
       "id": "pc-021",
       "prompt": "Who is the only female chef in Gusteau's kitchen and Linguini's love interest?",
-      "answer": "Colette"
+      "answer": "Colette",
+      "explanation": "Colette is voiced by Janeane Garofalo; her speech about the sexism of professional kitchens was praised for its real-world accuracy."
     },
     {
       "id": "pc-022",
       "prompt": "What is the name of EVE's love interest in WALL-E?",
-      "answer": "WALL-E"
+      "answer": "WALL-E",
+      "explanation": "WALL-E and EVE's romance unfolds with almost no spoken dialogue; their robotic 'voices' were designed by Star Wars sound legend Ben Burtt."
     },
     {
       "id": "pc-023",
       "prompt": "Who is the musician grandfather Miguel meets in the Land of the Dead in Coco?",
-      "answer": "Hector"
+      "answer": "Hector",
+      "explanation": "Hector is voiced by Gael García Bernal; he turns out to be Miguel's great-great-grandfather, the actual composer of 'Remember Me'."
     },
     {
       "id": "pc-024",
       "prompt": "What is the name of Merida's mother in Brave?",
       "answer": "Elinor",
-      "accepted": [
-        "Queen Elinor"
-      ]
+      "accepted": ["Queen Elinor"],
+      "explanation": "Queen Elinor is voiced by Emma Thompson; she spends most of Brave (2012) transformed into a bear, mirroring her conflict with Merida."
     },
     {
       "id": "pc-025",
       "prompt": "What is the name of Mei's mother in Turning Red?",
       "answer": "Ming",
-      "accepted": [
-        "Ming Lee"
-      ]
+      "accepted": ["Ming Lee"],
+      "explanation": "Ming Lee is voiced by Sandra Oh; her own giant red panda form in the climax dwarfs Mei's, symbolizing generations of suppressed emotion."
     }
   ]
 }

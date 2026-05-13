@@ -9,17 +9,20 @@
     {
       "id": "dp-001",
       "prompt": "What year did Disneyland in California open?",
-      "answer": "1955"
+      "answer": "1955",
+      "explanation": "Disneyland opened July 17, 1955 in Anaheim; the chaotic press preview day was later nicknamed 'Black Sunday' by Walt himself."
     },
     {
       "id": "dp-002",
       "prompt": "What year did Walt Disney World in Florida open?",
-      "answer": "1971"
+      "answer": "1971",
+      "explanation": "Walt Disney World opened October 1, 1971 in Florida, five years after Walt's death and sixteen years after Disneyland's 1955 debut."
     },
     {
       "id": "dp-003",
       "prompt": "What is the name of the iconic geodesic sphere at Epcot?",
-      "answer": "Spaceship Earth"
+      "answer": "Spaceship Earth",
+      "explanation": "Spaceship Earth is 180 feet tall and houses a slow-moving dark ride through the history of human communication, narrated over the years by Walter Cronkite, Jeremy Irons, and Dame Judi Dench."
     },
     {
       "id": "dp-004",
@@ -29,26 +32,27 @@
     {
       "id": "dp-005",
       "prompt": "What is the tallest mountain at any Disney park?",
-      "answer": "Expedition Everest"
+      "answer": "Expedition Everest",
+      "explanation": "Expedition Everest at Disney's Animal Kingdom stands 199.5 feet tall, deliberately just under 200 to avoid FAA aircraft warning light requirements."
     },
     {
       "id": "dp-006",
       "prompt": "How many 'mountains' are there in Magic Kingdom at WDW?",
       "answer": "Three",
-      "accepted": [
-        "3",
-        "three (space, splash, big thunder)"
-      ]
+      "accepted": ["3", "three (space, splash, big thunder)"],
+      "explanation": "Space Mountain, Big Thunder Mountain, and Splash Mountain (now Tiana's Bayou Adventure) form the classic Magic Kingdom mountain trio."
     },
     {
       "id": "dp-007",
       "prompt": "What was the original name of the ride now called Tiana's Bayou Adventure?",
-      "answer": "Splash Mountain"
+      "answer": "Splash Mountain",
+      "explanation": "Splash Mountain (1989-2023) was based on Song of the South; Disney rethemed it to The Princess and the Frog and reopened it in 2024."
     },
     {
       "id": "dp-008",
       "prompt": "What is the name of the railroad in Magic Kingdom?",
-      "answer": "Walt Disney World Railroad"
+      "answer": "Walt Disney World Railroad",
+      "explanation": "The Walt Disney World Railroad circles the Magic Kingdom with four restored steam locomotives Walt's team found in Mexico in the late 1960s."
     },
     {
       "id": "dp-009",
@@ -57,73 +61,77 @@
       "accepted": [
         "sleeping beauty castle",
         "disneyland (sleeping beauty castle)"
-      ]
+      ],
+      "explanation": "Sleeping Beauty Castle in Anaheim took visual cues from King Ludwig II's Neuschwanstein Castle and is the smallest of all Disney park castles."
     },
     {
       "id": "dp-010",
       "prompt": "Which park's castle is the largest, located in Shanghai Disneyland?",
-      "answer": "Enchanted Storybook Castle"
+      "answer": "Enchanted Storybook Castle",
+      "explanation": "Opened in 2016, the Enchanted Storybook Castle is the only Disney castle to represent all the princesses rather than a single one."
     },
     {
       "id": "dp-011",
       "prompt": "What is the name of the area in Disney parks dedicated to Star Wars?",
       "answer": "Galaxy's Edge",
-      "accepted": [
-        "star wars: galaxy's edge"
-      ]
+      "accepted": ["star wars: galaxy's edge"],
+      "explanation": "Star Wars: Galaxy's Edge opened in 2019 at Disneyland and Hollywood Studios, set on the planet Batuu between Episodes VIII and IX."
     },
     {
       "id": "dp-012",
       "prompt": "What hidden Disney character motif is famously found throughout the parks?",
-      "answer": "Hidden Mickeys"
+      "answer": "Hidden Mickeys",
+      "explanation": "Hidden Mickeys are three-circle Mickey silhouettes tucked into ride details, attraction queues, and resort decor by Imagineers as a game for guests."
     },
     {
       "id": "dp-013",
       "prompt": "What is the name of the central street that leads to the castle?",
-      "answer": "Main Street, U.S.A."
+      "answer": "Main Street, U.S.A.",
+      "explanation": "Main Street, U.S.A. is modeled after Walt's hometown of Marceline, Missouri at the turn of the 20th century."
     },
     {
       "id": "dp-014",
       "prompt": "What is the name of Tokyo Disney's second park?",
-      "answer": "Tokyo DisneySea"
+      "answer": "Tokyo DisneySea",
+      "explanation": "Tokyo DisneySea opened in 2001 and is the only Disney park built around a nautical theme; it is operated under license by the Oriental Land Company."
     },
     {
       "id": "dp-015",
       "prompt": "In what city is Disneyland Paris located?",
       "answer": "Paris",
-      "accepted": [
-        "marne-la-vallée",
-        "marne la vallee"
-      ]
+      "accepted": ["marne-la-vallée", "marne la vallee"],
+      "explanation": "Disneyland Paris is technically in Marne-la-Vallée, about 32 km east of central Paris, and opened in 1992 as Euro Disney Resort."
     },
     {
       "id": "dp-016",
       "prompt": "What was the original name of EPCOT?",
-      "answer": "Experimental Prototype Community of Tomorrow"
+      "answer": "Experimental Prototype Community of Tomorrow",
+      "explanation": "Walt envisioned EPCOT as a real working city of the future, but after his death in 1966 the concept was reworked into a theme park that opened in 1982."
     },
     {
       "id": "dp-017",
       "prompt": "Which ride features the song 'Grim Grinning Ghosts'?",
-      "answer": "The Haunted Mansion"
+      "answer": "The Haunted Mansion",
+      "explanation": "'Grim Grinning Ghosts' was composed by Buddy Baker with lyrics by X. Atencio for the Haunted Mansion's 1969 opening at Disneyland."
     },
     {
       "id": "dp-018",
       "prompt": "What attraction features 'It's a Small World (After All)'?",
-      "answer": "It's a Small World"
+      "answer": "It's a Small World",
+      "explanation": "The Sherman Brothers wrote the song for the 1964 New York World's Fair version of the ride, which Disney later moved to Disneyland in 1966."
     },
     {
       "id": "dp-019",
       "prompt": "What year did Walt Disney die?",
-      "answer": "1966"
+      "answer": "1966",
+      "explanation": "Walt died December 15, 1966 of lung cancer at age 65, ten months before the Pirates of the Caribbean ride he was overseeing opened at Disneyland."
     },
     {
       "id": "dp-020",
       "prompt": "What is the name of Disney's nighttime fireworks show often performed at Cinderella's Castle?",
       "answer": "Happily Ever After",
-      "accepted": [
-        "wishes",
-        "disney enchantment"
-      ]
+      "accepted": ["wishes", "disney enchantment"],
+      "explanation": "Happily Ever After ran 2017-2021, was replaced by Disney Enchantment, then returned in 2023 as the Magic Kingdom's headline nighttime spectacular."
     }
   ]
 }

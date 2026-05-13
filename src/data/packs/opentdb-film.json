@@ -10,108 +10,125 @@
       "id": "otdb-film-001",
       "prompt": "What is the orange and white bot's name in \"Star Wars: The Force Awakens\"?",
       "answer": "BB-8",
+      "explanation": "BB-8 debuted in 2015's The Force Awakens; the on-set version was a practical rolling puppet partly operated by Brian Herring and Dave Chapman.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-002",
       "prompt": "In Mulan (1998), who is the leader of the Huns?",
       "answer": "Shan Yu",
+      "explanation": "Shan Yu, voiced by Miguel Ferrer, was animated by Pres Romanillos and designed with sharp angular features to contrast Mulan's softer lines.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-003",
       "prompt": "According to the Star Wars lore, what is Han Solo's home planet?",
       "answer": "Corellia",
+      "explanation": "Corellia is an industrial shipbuilding world featured prominently in 2018's Solo: A Star Wars Story, where a young Han escapes the planet's slums.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-004",
       "prompt": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
       "answer": "Ewan McGregor",
+      "explanation": "Ewan McGregor played young Obi-Wan in the prequels (1999-2005) and reprised the role for the Disney+ series Obi-Wan Kenobi in 2022.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-005",
       "prompt": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
       "answer": "Gopher",
+      "explanation": "Gopher was created for Disney's 1966 short Winnie the Pooh and the Honey Tree; he even quips 'I'm not in the book' on first appearance.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-006",
       "prompt": "What is the name of the first \"Star Wars\" film by release order?",
       "answer": "A New Hope",
+      "explanation": "The 1977 film was originally titled just 'Star Wars'; the subtitle 'Episode IV: A New Hope' was added to the opening crawl for the 1981 re-release.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-007",
       "prompt": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
       "answer": "Between Episode 3 and 4",
+      "explanation": "Rogue One (2016) ends mere minutes before A New Hope begins, depicting the Rebel mission to steal the Death Star plans.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-008",
       "prompt": "Which town is the setting for the Disney movie The Love Bug (1968)?",
       "answer": "San Francisco",
+      "explanation": "The Love Bug introduced Herbie, a sentient 1963 Volkswagen Beetle racing through San Francisco; it was the highest-grossing film of 1969.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-009",
       "prompt": "In Avengers: Infinity War, where was the Soul Stone located?",
       "answer": "Vormir",
+      "explanation": "Vormir is a desolate planet where Red Skull guards the Soul Stone; Thanos sacrifices Gamora there to claim it.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-010",
       "prompt": "Which movie sequel had improved box office results compared to its original film?",
       "answer": "Toy Story 2",
+      "explanation": "Toy Story 2 (1999) earned about $497M worldwide versus the original's $373M, and was almost scrapped when an accidental command nearly deleted it from Pixar's servers.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-011",
       "prompt": "In Finding Nemo, what was the name of Nemo's mom?",
       "answer": "Coral",
+      "explanation": "Coral is killed by a barracuda in the opening scene of Finding Nemo (2003), leaving Marlin to raise Nemo alone.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-012",
       "prompt": "What was the first feature-length computer-animated movie?",
       "answer": "Toy Story",
+      "explanation": "Pixar's Toy Story (1995), directed by John Lasseter, was the first fully CGI feature film and took roughly four years to produce.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-013",
       "prompt": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
       "answer": "Human Torch",
+      "explanation": "Chris Evans played Johnny Storm in 2005's Fantastic Four and its 2007 sequel before becoming Steve Rogers in 2011's Captain America: The First Avenger.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-014",
       "prompt": "Who portrayed Han Solo in the Star Wars main film series?",
       "answer": "Harrison Ford",
+      "explanation": "Harrison Ford was working as a carpenter at Lucasfilm when he was cast as Han Solo in 1977's Star Wars; he returned for The Force Awakens in 2015.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-015",
       "prompt": "What is the oldest Disney film?",
       "answer": "Snow White and the Seven Dwarfs",
-      "sourceUrl": "https://opentdb.com"
+      "explanation": "Snow White (1937) was Walt's first feature, dubbed 'Disney's Folly' by Hollywood until it became the highest-grossing film of all time at release."
     },
     {
       "id": "otdb-film-016",
       "prompt": "Which of these Disney classics was released in 1970?",
       "answer": "The Aristocats",
+      "explanation": "The Aristocats was the first animated feature greenlit after Walt Disney's death and the last one he personally approved before he died in 1966.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-017",
       "prompt": "The 2016 Disney animated film 'Moana' is based on which culture?",
       "answer": "Polynesian",
+      "explanation": "Moana draws on Polynesian mythology — including the demigod Maui — and Disney convened an Oceanic Story Trust of Pacific Islander cultural advisors.",
       "sourceUrl": "https://opentdb.com"
     },
     {
       "id": "otdb-film-018",
       "prompt": "Which actor auditioned for the role of Luke Skywalker?",
       "answer": "Kurt Russell",
+      "explanation": "Kurt Russell was a serious contender for Luke before Mark Hamill landed the role; Russell turned down the casting offer to pursue dramatic roles.",
       "sourceUrl": "https://opentdb.com"
     }
   ]

@@ -14,23 +14,27 @@
     {
       "id": "sw-002",
       "prompt": "What year was the original Star Wars film released?",
-      "answer": "1977"
+      "answer": "1977",
+      "explanation": "Star Wars (later retitled A New Hope) premiered May 25, 1977 and became a cultural phenomenon that reshaped the modern blockbuster."
     },
     {
       "id": "sw-003",
       "prompt": "What color is Mace Windu's lightsaber?",
-      "answer": "Purple"
+      "answer": "Purple",
+      "explanation": "Samuel L. Jackson asked George Lucas for a unique color so he could spot himself in battle scenes; Mace's purple blade debuted in Attack of the Clones."
     },
     {
       "id": "sw-004",
       "prompt": "Who is Luke Skywalker's twin sister?",
       "answer": "Leia",
-      "accepted": ["Princess Leia", "Leia Organa"]
+      "accepted": ["Princess Leia", "Leia Organa"],
+      "explanation": "The twins were separated at birth to hide them from Vader; Leia was adopted by Bail Organa of Alderaan, Luke by the Lars family on Tatooine."
     },
     {
       "id": "sw-005",
       "prompt": "What is the name of Han Solo's ship?",
-      "answer": "Millennium Falcon"
+      "answer": "Millennium Falcon",
+      "explanation": "The Falcon is a modified YT-1300 Corellian freighter Han won from Lando Calrissian in a game of sabacc."
     },
     {
       "id": "sw-006",
@@ -40,61 +44,72 @@
     {
       "id": "sw-007",
       "prompt": "Who trained Luke Skywalker on Dagobah?",
-      "answer": "Yoda"
+      "answer": "Yoda",
+      "explanation": "Yoda hid on the swamp planet Dagobah after Order 66; he trains Luke there in The Empire Strikes Back (1980)."
     },
     {
       "id": "sw-008",
       "prompt": "What is Darth Vader's birth name?",
       "answer": "Anakin Skywalker",
-      "accepted": ["Anakin"]
+      "accepted": ["Anakin"],
+      "explanation": "Anakin was the prophesied Chosen One, falling to the dark side in Revenge of the Sith (2005) before being entombed in the Vader suit."
     },
     {
       "id": "sw-009",
       "prompt": "Who shot first?",
       "answer": "Han",
-      "accepted": ["Han Solo"]
+      "accepted": ["Han Solo"],
+      "explanation": "In the 1977 original, Han shoots Greedo in the Mos Eisley cantina; Lucas's 1997 Special Edition controversially altered the scene to have Greedo shoot first."
     },
     {
       "id": "sw-010",
       "prompt": "What is the name of the bounty hunter who captures Han Solo in The Empire Strikes Back?",
-      "answer": "Boba Fett"
+      "answer": "Boba Fett",
+      "explanation": "Boba delivers a carbonite-frozen Han to Jabba the Hutt; the helmeted bounty hunter became a fan icon despite minimal screen time."
     },
     {
       "id": "sw-011",
       "prompt": "What planet is the Rebel base on at the start of The Empire Strikes Back?",
-      "answer": "Hoth"
+      "answer": "Hoth",
+      "explanation": "Hoth is the icy world where Echo Base hides until Imperial probe droids spot it, triggering the Battle of Hoth with AT-AT walkers."
     },
     {
       "id": "sw-012",
       "prompt": "What is the name of the Sith Lord apprentice with a double-bladed lightsaber in The Phantom Menace?",
-      "answer": "Darth Maul"
+      "answer": "Darth Maul",
+      "explanation": "The horned Dathomirian Zabrak served Darth Sidious and killed Qui-Gon Jinn on Naboo before being sliced in half by Obi-Wan in 1999's The Phantom Menace."
     },
     {
       "id": "sw-013",
       "prompt": "Who is the main character of The Mandalorian?",
       "answer": "Din Djarin",
-      "accepted": ["Mando", "The Mandalorian"]
+      "accepted": ["Mando", "The Mandalorian"],
+      "explanation": "Played by Pedro Pascal, Din is a bounty hunter who becomes guardian to Grogu in the Disney+ series that premiered in 2019."
     },
     {
       "id": "sw-014",
       "prompt": "What is the in-universe name of the character commonly called Baby Yoda?",
-      "answer": "Grogu"
+      "answer": "Grogu",
+      "explanation": "His name was kept secret until episode 4 of The Mandalorian season 2; he's a Force-sensitive member of Yoda's mysterious species."
     },
     {
       "id": "sw-015",
       "prompt": "What is the name of the desert scavenger heroine introduced in The Force Awakens?",
-      "answer": "Rey"
+      "answer": "Rey",
+      "explanation": "Played by Daisy Ridley, Rey is introduced scavenging Star Destroyer wrecks on Jakku in 2015's The Force Awakens."
     },
     {
       "id": "sw-016",
       "prompt": "What is Kylo Ren's birth name?",
       "answer": "Ben Solo",
-      "accepted": ["Ben"]
+      "accepted": ["Ben"],
+      "explanation": "Son of Han Solo and Leia Organa, Ben was named for Ben Kenobi and trained by Luke before being turned by Snoke."
     },
     {
       "id": "sw-017",
       "prompt": "What is the forest moon where the Ewoks live?",
-      "answer": "Endor"
+      "answer": "Endor",
+      "explanation": "Technically the Forest Moon of Endor; the second Death Star's shield generator is hidden there in Return of the Jedi (1983)."
     },
     {
       "id": "sw-018",
@@ -105,40 +120,47 @@
       "id": "sw-019",
       "prompt": "Han Solo brags that the Millennium Falcon made the Kessel Run in less than how many parsecs?",
       "answer": "12 parsecs",
-      "accepted": ["12", "twelve", "twelve parsecs"]
+      "accepted": ["12", "twelve", "twelve parsecs"],
+      "explanation": "A parsec is a unit of distance, not time — fans debated the line for decades until Solo (2018) showed Han taking a shortcut through the Maelstrom."
     },
     {
       "id": "sw-020",
       "prompt": "Who is the protagonist of Rogue One?",
-      "answer": "Jyn Erso"
+      "answer": "Jyn Erso",
+      "explanation": "Played by Felicity Jones, Jyn leads the squad that steals the Death Star plans in Rogue One: A Star Wars Story (2016)."
     },
     {
       "id": "sw-021",
       "prompt": "What is the protocol droid C-3PO's primary function?",
       "answer": "Protocol droid",
-      "accepted": ["translator", "translation", "human-cyborg relations"]
+      "accepted": ["translator", "translation", "human-cyborg relations"],
+      "explanation": "C-3PO is fluent in over six million forms of communication and was built by a young Anakin Skywalker on Tatooine."
     },
     {
       "id": "sw-022",
       "prompt": "What is the name of Obi-Wan Kenobi's Padawan who later becomes Darth Vader?",
       "answer": "Anakin Skywalker",
-      "accepted": ["Anakin"]
+      "accepted": ["Anakin"],
+      "explanation": "Obi-Wan promised the dying Qui-Gon he would train Anakin; their final duel on Mustafar leaves Anakin maimed and reborn as Vader."
     },
     {
       "id": "sw-023",
       "prompt": "What is the capital planet of the Republic and later the Empire, home to the Jedi Temple?",
-      "answer": "Coruscant"
+      "answer": "Coruscant",
+      "explanation": "Coruscant is an ecumenopolis — a city-planet whose entire surface is urbanized — featured heavily in the prequel trilogy."
     },
     {
       "id": "sw-024",
       "prompt": "Complete the line: 'I am your ___.'",
-      "answer": "Father"
+      "answer": "Father",
+      "explanation": "Vader's reveal in The Empire Strikes Back is often misquoted as 'Luke, I am your father'; the actual line is 'No, I am your father.'"
     },
     {
       "id": "sw-025",
       "prompt": "What is the name of Anakin Skywalker's Padawan in The Clone Wars?",
       "answer": "Ahsoka Tano",
-      "accepted": ["Ahsoka"]
+      "accepted": ["Ahsoka"],
+      "explanation": "The Togruta apprentice debuted in the 2008 animated film and series; she later got her own live-action Disney+ show, played by Rosario Dawson."
     }
   ]
 }
