@@ -1,0 +1,151 @@
+{
+  "id": "pixar-easy-wins",
+  "title": "Pixar Easy Wins",
+  "description": "Beginner-friendly Pixar trivia — Toy Story, Finding Nemo, the basics.",
+  "category": "pixar",
+  "difficulty": "easy",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "pew-001",
+      "prompt": "In Toy Story, what is the name of Andy's cowboy doll?",
+      "answer": "Woody"
+    },
+    {
+      "id": "pew-002",
+      "prompt": "In Toy Story, what is the name of the space ranger action figure?",
+      "answer": "Buzz Lightyear"
+    },
+    {
+      "id": "pew-003",
+      "prompt": "What kind of fish is Nemo in Finding Nemo?",
+      "answer": "Clownfish"
+    },
+    {
+      "id": "pew-004",
+      "prompt": "What is the name of Nemo's father?",
+      "answer": "Marlin"
+    },
+    {
+      "id": "pew-005",
+      "prompt": "What is the name of the race car hero in Cars?",
+      "answer": "Lightning McQueen"
+    },
+    {
+      "id": "pew-006",
+      "prompt": "What kind of vehicle is Mater in Cars?",
+      "answer": "Tow truck"
+    },
+    {
+      "id": "pew-007",
+      "prompt": "In Monsters, Inc., what is the name of the big blue furry monster?",
+      "answer": "Sulley",
+      "accepted": [
+        "sully",
+        "james p. sullivan"
+      ]
+    },
+    {
+      "id": "pew-008",
+      "prompt": "In The Incredibles, what is the family's last name?",
+      "answer": "Parr"
+    },
+    {
+      "id": "pew-009",
+      "prompt": "What is the name of the baby in The Incredibles?",
+      "answer": "Jack-Jack"
+    },
+    {
+      "id": "pew-010",
+      "prompt": "In Up, what is the name of the young Wilderness Explorer who tags along with Carl?",
+      "answer": "Russell"
+    },
+    {
+      "id": "pew-011",
+      "prompt": "How does Carl's house fly in Up?",
+      "answer": "Balloons"
+    },
+    {
+      "id": "pew-012",
+      "prompt": "In WALL-E, what is the name of the sleek white robot WALL-E falls in love with?",
+      "answer": "EVE"
+    },
+    {
+      "id": "pew-013",
+      "prompt": "In Coco, what is the name of the main character who dreams of being a musician?",
+      "answer": "Miguel"
+    },
+    {
+      "id": "pew-014",
+      "prompt": "What Mexican holiday is Coco set during?",
+      "answer": "Día de los Muertos",
+      "accepted": [
+        "day of the dead",
+        "dia de los muertos"
+      ]
+    },
+    {
+      "id": "pew-015",
+      "prompt": "In Inside Out, what is the name of the young girl whose emotions we see?",
+      "answer": "Riley"
+    },
+    {
+      "id": "pew-016",
+      "prompt": "In Brave, what is the name of the red-haired princess?",
+      "answer": "Merida"
+    },
+    {
+      "id": "pew-017",
+      "prompt": "What country is Brave set in?",
+      "answer": "Scotland"
+    },
+    {
+      "id": "pew-018",
+      "prompt": "In Ratatouille, what city is the film set in?",
+      "answer": "Paris"
+    },
+    {
+      "id": "pew-019",
+      "prompt": "In A Bug's Life, what kind of insect is the main character Flik?",
+      "answer": "Ant"
+    },
+    {
+      "id": "pew-020",
+      "prompt": "In Finding Dory, what kind of animal is Hank, the creature that helps Dory?",
+      "answer": "Octopus",
+      "accepted": [
+        "septopus"
+      ]
+    },
+    {
+      "id": "pew-021",
+      "prompt": "In Luca, what kind of creature is Luca when he's underwater?",
+      "answer": "Sea monster"
+    },
+    {
+      "id": "pew-022",
+      "prompt": "In Turning Red, what animal does Mei transform into?",
+      "answer": "Red panda"
+    },
+    {
+      "id": "pew-023",
+      "prompt": "In Onward, what mythical creatures are the two brothers?",
+      "answer": "Elves"
+    },
+    {
+      "id": "pew-024",
+      "prompt": "In Soul, what is the main character Joe's profession?",
+      "answer": "Music teacher",
+      "accepted": [
+        "jazz musician",
+        "musician",
+        "pianist"
+      ]
+    },
+    {
+      "id": "pew-025",
+      "prompt": "In Elemental, the two main characters represent which two elements?",
+      "answer": "Fire and water"
+    }
+  ]
+}

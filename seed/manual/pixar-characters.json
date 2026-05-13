@@ -1,0 +1,143 @@
+{
+  "id": "pixar-characters",
+  "title": "Pixar Characters",
+  "description": "Names, sidekicks, families — who's who across Pixar.",
+  "category": "pixar",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "pc-001",
+      "prompt": "What is the name of the cowgirl doll introduced in Toy Story 2?",
+      "answer": "Jessie"
+    },
+    {
+      "id": "pc-002",
+      "prompt": "What is the name of Jessie's horse in the Toy Story films?",
+      "answer": "Bullseye"
+    },
+    {
+      "id": "pc-003",
+      "prompt": "What is the name of the pink strawberry-scented bear villain in Toy Story 3?",
+      "answer": "Lots-o'-Huggin' Bear",
+      "accepted": ["Lotso", "Lots-o", "Lotso Huggin Bear"]
+    },
+    {
+      "id": "pc-004",
+      "prompt": "What is the name of the spork toy Bonnie creates in Toy Story 4?",
+      "answer": "Forky"
+    },
+    {
+      "id": "pc-005",
+      "prompt": "Who is the toy-torturing neighbor kid in the original Toy Story?",
+      "answer": "Sid"
+    },
+    {
+      "id": "pc-006",
+      "prompt": "Who is Mr. Incredible's wife in The Incredibles?",
+      "answer": "Helen Parr",
+      "accepted": ["Elastigirl", "Mrs. Incredible", "Helen"]
+    },
+    {
+      "id": "pc-007",
+      "prompt": "What is the name of the Parr family's invisible teenage daughter?",
+      "answer": "Violet"
+    },
+    {
+      "id": "pc-008",
+      "prompt": "What is the name of the Parr family baby with emerging powers?",
+      "answer": "Jack-Jack"
+    },
+    {
+      "id": "pc-009",
+      "prompt": "Who is the diminutive superhero costume designer in The Incredibles?",
+      "answer": "Edna Mode",
+      "accepted": ["Edna"]
+    },
+    {
+      "id": "pc-010",
+      "prompt": "Who is the ice-powered superhero best friend of Mr. Incredible?",
+      "answer": "Frozone"
+    },
+    {
+      "id": "pc-011",
+      "prompt": "Who is the main villain in The Incredibles?",
+      "answer": "Syndrome"
+    },
+    {
+      "id": "pc-012",
+      "prompt": "Who is Nemo's overprotective clownfish father in Finding Nemo?",
+      "answer": "Marlin"
+    },
+    {
+      "id": "pc-013",
+      "prompt": "Who is the leader of the fish tank gang in Finding Nemo?",
+      "answer": "Gill"
+    },
+    {
+      "id": "pc-014",
+      "prompt": "What is the name of the laid-back sea turtle in Finding Nemo?",
+      "answer": "Crush"
+    },
+    {
+      "id": "pc-015",
+      "prompt": "What is the name of the chameleon villain in Monsters, Inc.?",
+      "answer": "Randall",
+      "accepted": ["Randall Boggs"]
+    },
+    {
+      "id": "pc-016",
+      "prompt": "Who is the rusty tow truck and best friend of Lightning McQueen?",
+      "answer": "Mater"
+    },
+    {
+      "id": "pc-017",
+      "prompt": "Who is the blue Porsche and love interest in Cars?",
+      "answer": "Sally",
+      "accepted": ["Sally Carrera"]
+    },
+    {
+      "id": "pc-018",
+      "prompt": "Who is the wilderness explorer scout who stows away on Carl's house in Up?",
+      "answer": "Russell"
+    },
+    {
+      "id": "pc-019",
+      "prompt": "Who is the villainous explorer Carl idolized as a boy in Up?",
+      "answer": "Charles Muntz"
+    },
+    {
+      "id": "pc-020",
+      "prompt": "Who is the human chef and garbage boy taught to cook by Remy in Ratatouille?",
+      "answer": "Linguini",
+      "accepted": ["Alfredo Linguini"]
+    },
+    {
+      "id": "pc-021",
+      "prompt": "Who is the only female chef in Gusteau's kitchen and Linguini's love interest?",
+      "answer": "Colette"
+    },
+    {
+      "id": "pc-022",
+      "prompt": "What is the name of EVE's love interest in WALL-E?",
+      "answer": "WALL-E"
+    },
+    {
+      "id": "pc-023",
+      "prompt": "Who is the musician grandfather Miguel meets in the Land of the Dead in Coco?",
+      "answer": "Hector"
+    },
+    {
+      "id": "pc-024",
+      "prompt": "What is the name of Merida's mother in Brave?",
+      "answer": "Elinor",
+      "accepted": ["Queen Elinor"]
+    },
+    {
+      "id": "pc-025",
+      "prompt": "What is the name of Mei's mother in Turning Red?",
+      "answer": "Ming",
+      "accepted": ["Ming Lee"]
+    }
+  ]
+}

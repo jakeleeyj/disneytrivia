@@ -1,0 +1,133 @@
+{
+  "id": "pixar-films",
+  "title": "Pixar Films",
+  "description": "Release years, directors, plots across the Pixar canon.",
+  "category": "pixar",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "pf-001",
+      "prompt": "What year was Toy Story released?",
+      "answer": "1995"
+    },
+    {
+      "id": "pf-002",
+      "prompt": "What year was Up released?",
+      "answer": "2009"
+    },
+    {
+      "id": "pf-003",
+      "prompt": "Who directed Up, Inside Out, and Soul?",
+      "answer": "Pete Docter"
+    },
+    {
+      "id": "pf-004",
+      "prompt": "Who directed The Incredibles and Ratatouille?",
+      "answer": "Brad Bird"
+    },
+    {
+      "id": "pf-005",
+      "prompt": "In which country is Coco set?",
+      "answer": "Mexico"
+    },
+    {
+      "id": "pf-006",
+      "prompt": "What instrument does Joe Gardner play in Soul?",
+      "answer": "Piano"
+    },
+    {
+      "id": "pf-007",
+      "prompt": "What mythical creatures are the Lightfoot brothers in Onward?",
+      "answer": "Elves"
+    },
+    {
+      "id": "pf-008",
+      "prompt": "What year was Finding Nemo released?",
+      "answer": "2003"
+    },
+    {
+      "id": "pf-009",
+      "prompt": "What year was Ratatouille released?",
+      "answer": "2007"
+    },
+    {
+      "id": "pf-010",
+      "prompt": "What year was WALL-E released?",
+      "answer": "2008"
+    },
+    {
+      "id": "pf-011",
+      "prompt": "In Luca, what kind of creatures are Luca and Alberto?",
+      "answer": "Sea monsters"
+    },
+    {
+      "id": "pf-012",
+      "prompt": "In which Italian region is Luca set?",
+      "answer": "Italian Riviera",
+      "accepted": ["liguria", "the italian riviera"]
+    },
+    {
+      "id": "pf-013",
+      "prompt": "In Turning Red, what animal does Mei transform into?",
+      "answer": "Red panda"
+    },
+    {
+      "id": "pf-014",
+      "prompt": "In which Canadian city is Turning Red set?",
+      "answer": "Toronto"
+    },
+    {
+      "id": "pf-015",
+      "prompt": "Which Pixar film won the Academy Award for Best Animated Feature in 2018?",
+      "answer": "Coco"
+    },
+    { "id": "pf-016", "prompt": "Who directed Coco?", "answer": "Lee Unkrich" },
+    {
+      "id": "pf-017",
+      "prompt": "What year was Brave released?",
+      "answer": "2012"
+    },
+    {
+      "id": "pf-018",
+      "prompt": "What is the name of the princess in Brave?",
+      "answer": "Merida"
+    },
+    {
+      "id": "pf-019",
+      "prompt": "In Elemental, what are the two main characters made of?",
+      "answer": "Fire and water"
+    },
+    {
+      "id": "pf-020",
+      "prompt": "What year was Cars released?",
+      "answer": "2006"
+    },
+    {
+      "id": "pf-021",
+      "prompt": "Who directed the original Cars?",
+      "answer": "John Lasseter"
+    },
+    {
+      "id": "pf-022",
+      "prompt": "What year was Monsters, Inc. released?",
+      "answer": "2001"
+    },
+    {
+      "id": "pf-023",
+      "prompt": "Which Pixar film is a prequel set in Monstropolis university?",
+      "answer": "Monsters University"
+    },
+    {
+      "id": "pf-024",
+      "prompt": "In Lightyear, who voices Buzz Lightyear?",
+      "answer": "Chris Evans"
+    },
+    {
+      "id": "pf-025",
+      "prompt": "In Toy Story 3, who does Andy give his toys to at the end?",
+      "answer": "Bonnie",
+      "accepted": ["bonnie", "bonnie anderson"]
+    }
+  ]
+}

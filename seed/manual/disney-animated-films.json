@@ -1,0 +1,135 @@
+{
+  "id": "disney-animated-films",
+  "title": "Disney Animated Films",
+  "description": "Years, directors, voice cast across the Walt Disney Animation canon.",
+  "category": "animated",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "daf-001",
+      "prompt": "What year was The Lion King originally released?",
+      "answer": "1994"
+    },
+    {
+      "id": "daf-002",
+      "prompt": "What year was Beauty and the Beast released?",
+      "answer": "1991"
+    },
+    {
+      "id": "daf-003",
+      "prompt": "What year was Mulan released?",
+      "answer": "1998"
+    },
+    {
+      "id": "daf-004",
+      "prompt": "What year was Tangled released?",
+      "answer": "2010"
+    },
+    {
+      "id": "daf-005",
+      "prompt": "What year was Zootopia released?",
+      "answer": "2016"
+    },
+    {
+      "id": "daf-006",
+      "prompt": "What year was Encanto released?",
+      "answer": "2021"
+    },
+    {
+      "id": "daf-007",
+      "prompt": "What is Stitch's experiment number in Lilo & Stitch?",
+      "answer": "626"
+    },
+    {
+      "id": "daf-008",
+      "prompt": "What is the name of Lilo's older sister in Lilo & Stitch?",
+      "answer": "Nani"
+    },
+    {
+      "id": "daf-009",
+      "prompt": "In Encanto, what is the family surname?",
+      "answer": "Madrigal"
+    },
+    {
+      "id": "daf-010",
+      "prompt": "What is the name of the lost city in Atlantis: The Lost Empire?",
+      "answer": "Atlantis"
+    },
+    {
+      "id": "daf-011",
+      "prompt": "In Big Hero 6, what is the inflatable healthcare robot's name?",
+      "answer": "Baymax"
+    },
+    {
+      "id": "daf-012",
+      "prompt": "What city is Big Hero 6 set in?",
+      "answer": "San Fransokyo"
+    },
+    {
+      "id": "daf-013",
+      "prompt": "Who voiced Mulan's singing voice in the 1998 film?",
+      "answer": "Lea Salonga"
+    },
+    {
+      "id": "daf-014",
+      "prompt": "Who voiced Hercules in the 1997 Disney film?",
+      "answer": "Tate Donovan"
+    },
+    {
+      "id": "daf-015",
+      "prompt": "Who voiced Quasimodo in The Hunchback of Notre Dame?",
+      "answer": "Tom Hulce"
+    },
+    {
+      "id": "daf-016",
+      "prompt": "Who voiced Tarzan in the 1999 Disney film?",
+      "answer": "Tony Goldwyn"
+    },
+    {
+      "id": "daf-017",
+      "prompt": "Who voiced Rapunzel in Tangled?",
+      "answer": "Mandy Moore"
+    },
+    {
+      "id": "daf-018",
+      "prompt": "Who voiced Judy Hopps in Zootopia?",
+      "answer": "Ginnifer Goodwin"
+    },
+    {
+      "id": "daf-019",
+      "prompt": "Who voiced Nick Wilde in Zootopia?",
+      "answer": "Jason Bateman"
+    },
+    {
+      "id": "daf-020",
+      "prompt": "What is the name of the dog in Bolt who thinks he has superpowers?",
+      "answer": "Bolt"
+    },
+    {
+      "id": "daf-021",
+      "prompt": "In Wreck-It Ralph, what is the name of the racing game Vanellope lives in?",
+      "answer": "Sugar Rush"
+    },
+    {
+      "id": "daf-022",
+      "prompt": "In Brother Bear, what is the name of the human protagonist who transforms into a bear?",
+      "answer": "Kenai"
+    },
+    {
+      "id": "daf-023",
+      "prompt": "What is the name of the protagonist in Treasure Planet?",
+      "answer": "Jim Hawkins"
+    },
+    {
+      "id": "daf-024",
+      "prompt": "What is the name of the protagonist's pet rooster in Moana?",
+      "answer": "Heihei"
+    },
+    {
+      "id": "daf-025",
+      "prompt": "In Raya and the Last Dragon, what is the name of the last dragon?",
+      "answer": "Sisu"
+    }
+  ]
+}

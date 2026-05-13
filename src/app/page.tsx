@@ -31,14 +31,14 @@ export default function Home() {
 
       <section className="mb-6" aria-label="Mix">
         <Link
-          href="/packs/mix"
+          href="/mix"
           className="block rounded-2xl bg-[color:var(--foreground)] p-5 text-[color:var(--background)] hover:opacity-90"
         >
           <div className="flex items-start justify-between gap-2">
             <div>
-              <h2 className="text-lg font-bold">Mix all packs</h2>
+              <h2 className="text-lg font-bold">Build a mix</h2>
               <p className="mt-1 text-sm opacity-80">
-                Random questions across every category.
+                Pick which packs you want — then drill.
               </p>
             </div>
             <span className="rounded-full bg-[color:var(--background)] px-2 py-0.5 text-xs font-medium text-[color:var(--foreground)]">
@@ -46,9 +46,11 @@ export default function Home() {
             </span>
           </div>
           <div className="mt-3 flex gap-2 text-xs">
-            <span className="rounded-full bg-white/15 px-2 py-0.5">Quick</span>
             <span className="rounded-full bg-white/15 px-2 py-0.5">
-              Marathon
+              Choose packs
+            </span>
+            <span className="rounded-full bg-white/15 px-2 py-0.5">
+              Quick or Marathon
             </span>
           </div>
         </Link>

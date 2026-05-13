@@ -1,6 +1,11 @@
 import easyWins from "./disney-easy-wins.json";
 import villains from "./disney-villains.json";
+import animatedFilms from "./disney-animated-films.json";
+import sidekicks from "./disney-sidekicks.json";
 import pixarDeepCuts from "./pixar-deep-cuts.json";
+import pixarEasyWins from "./pixar-easy-wins.json";
+import pixarFilms from "./pixar-films.json";
+import pixarCharacters from "./pixar-characters.json";
 import parks from "./disney-parks.json";
 import princesses from "./disney-princesses.json";
 import songs from "./disney-songs.json";
@@ -11,12 +16,18 @@ import opentdbFilm from "./opentdb-film.json";
 import type { Pack } from "@/lib/types";
 
 // Add new packs here after running the seed scripts.
+// Disney + Pixar packs first since they're the main focus.
 export const packs: Pack[] = [
   easyWins as Pack,
   princesses as Pack,
   villains as Pack,
   songs as Pack,
+  sidekicks as Pack,
+  animatedFilms as Pack,
+  pixarEasyWins as Pack,
   pixarDeepCuts as Pack,
+  pixarFilms as Pack,
+  pixarCharacters as Pack,
   parks as Pack,
   starWars as Pack,
   marvel as Pack,

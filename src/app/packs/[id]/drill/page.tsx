@@ -3,10 +3,16 @@
 import { use, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { notFound, useRouter, useSearchParams } from "next/navigation";
-import { buildOriginPackMap, getPackById, MIX_PACK_ID } from "@/data/packs";
+import {
+  buildOriginPackMap,
+  getPackById,
+  MIX_PACK_ID,
+  packs,
+} from "@/data/packs";
 import { buildDrillQueue, type DrillLength } from "@/lib/drill";
 import { getCurrentPlayer } from "@/lib/player";
 import { getMissQueue, recordAttempt } from "@/lib/attempts";
+import { getMixSelection } from "@/lib/mixSelection";
 import { Flashcard } from "@/components/Flashcard";
 import type { Question } from "@/lib/types";
 
@@ -33,6 +39,7 @@ export default function DrillPage({
   const unlimited = length === "unlimited";
 
   const [player, setPlayer] = useState<string | null>(null);
+  const [pool, setPool] = useState<Question[]>([]);
   const [queue, setQueue] = useState<Question[] | null>(null);
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState<Array<"got_it" | "missed">>([]);
@@ -52,10 +59,22 @@ export default function DrillPage({
       return;
     }
     setPlayer(p);
+
+    // In mix mode, pool only the packs the player has selected.
+    let nextPool = pack.questions;
+    if (isMix) {
+      const allIds = packs.map((x) => x.id);
+      const selected = new Set(getMixSelection(p, allIds));
+      nextPool = packs
+        .filter((x) => selected.has(x.id))
+        .flatMap((x) => x.questions);
+    }
+    setPool(nextPool);
+
     const miss = getMissQueue(p);
     setQueue(
       buildDrillQueue({
-        packQuestions: pack.questions,
+        packQuestions: nextPool,
         missQueue: miss,
         length,
       }),
@@ -63,7 +82,7 @@ export default function DrillPage({
     // Depend on pack.id (stable) not pack itself — the mix pack is rebuilt
     // every render, which would otherwise re-shuffle the queue on every tick.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [pack.id, router, length]);
+  }, [pack.id, router, length, isMix]);
 
   const total = queue?.length ?? 0;
   const current = queue && index < total ? queue[index] : null;
@@ -99,7 +118,7 @@ export default function DrillPage({
         const miss = getMissQueue(player);
         setQueue(
           buildDrillQueue({
-            packQuestions: pack.questions,
+            packQuestions: pool,
             missQueue: miss,
             length: "unlimited",
           }),
@@ -182,7 +201,7 @@ export default function DrillPage({
                 const miss = getMissQueue(player!);
                 setQueue(
                   buildDrillQueue({
-                    packQuestions: pack.questions,
+                    packQuestions: pool,
                     missQueue: miss,
                     length: Math.min(summary.missed * 2, 20),
                   }),

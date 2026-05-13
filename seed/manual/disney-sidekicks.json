@@ -1,0 +1,135 @@
+{
+  "id": "disney-sidekicks",
+  "title": "Disney Sidekicks & Animals",
+  "description": "The supporting cast — pets, animals, comic relief, and best friends.",
+  "category": "animated",
+  "difficulty": "medium",
+  "source": "manual",
+  "questions": [
+    {
+      "id": "dsk-001",
+      "prompt": "What kind of animal is Pumbaa in The Lion King?",
+      "answer": "Warthog"
+    },
+    {
+      "id": "dsk-002",
+      "prompt": "What kind of animal is Timon in The Lion King?",
+      "answer": "Meerkat"
+    },
+    {
+      "id": "dsk-003",
+      "prompt": "What kind of bird is Zazu in The Lion King?",
+      "answer": "Hornbill"
+    },
+    {
+      "id": "dsk-004",
+      "prompt": "What kind of animal is Rafiki in The Lion King?",
+      "answer": "Mandrill"
+    },
+    {
+      "id": "dsk-005",
+      "prompt": "Name any one of the three good fairies in Sleeping Beauty.",
+      "answer": "Flora"
+    },
+    {
+      "id": "dsk-006",
+      "prompt": "Name any one of the Seven Dwarfs.",
+      "answer": "Doc"
+    },
+    {
+      "id": "dsk-007",
+      "prompt": "Which dwarf in Snow White never speaks?",
+      "answer": "Dopey"
+    },
+    {
+      "id": "dsk-008",
+      "prompt": "What are the names of the two adult Dalmatian parents in 101 Dalmatians?",
+      "answer": "Pongo and Perdita"
+    },
+    {
+      "id": "dsk-009",
+      "prompt": "What is the name of the alley cat who helps the Aristocats?",
+      "answer": "O'Malley"
+    },
+    {
+      "id": "dsk-010",
+      "prompt": "Who is Robin Hood's bear best friend in the 1973 Disney film?",
+      "answer": "Little John"
+    },
+    {
+      "id": "dsk-011",
+      "prompt": "What are the names of the two mice agents in The Rescuers?",
+      "answer": "Bernard and Bianca"
+    },
+    {
+      "id": "dsk-012",
+      "prompt": "What is the name of the teapot in Beauty and the Beast?",
+      "answer": "Mrs. Potts"
+    },
+    {
+      "id": "dsk-013",
+      "prompt": "What is the name of the teacup, son of Mrs. Potts?",
+      "answer": "Chip"
+    },
+    {
+      "id": "dsk-014",
+      "prompt": "What is the name of the mantel clock in Beauty and the Beast?",
+      "answer": "Cogsworth"
+    },
+    {
+      "id": "dsk-015",
+      "prompt": "What is the name of Aladdin's pet monkey?",
+      "answer": "Abu"
+    },
+    {
+      "id": "dsk-016",
+      "prompt": "What kind of animal is Pocahontas's companion Percy?",
+      "answer": "Pug"
+    },
+    {
+      "id": "dsk-017",
+      "prompt": "What kind of bird is Pocahontas's companion Flit?",
+      "answer": "Hummingbird"
+    },
+    {
+      "id": "dsk-018",
+      "prompt": "What is the name of Hercules's satyr trainer?",
+      "answer": "Phil"
+    },
+    {
+      "id": "dsk-019",
+      "prompt": "What is the name of Mulan's lucky cricket?",
+      "answer": "Cri-Kee"
+    },
+    {
+      "id": "dsk-020",
+      "prompt": "What is the name of the alien scientist who created Stitch?",
+      "answer": "Jumba"
+    },
+    {
+      "id": "dsk-021",
+      "prompt": "What is the name of Jumba's one-eyed partner in Lilo & Stitch?",
+      "answer": "Pleakley"
+    },
+    {
+      "id": "dsk-022",
+      "prompt": "What is the name of the cat who befriends Bolt on his journey home?",
+      "answer": "Mittens"
+    },
+    {
+      "id": "dsk-023",
+      "prompt": "What kind of animal is Rhino, Bolt's biggest fan?",
+      "answer": "Hamster"
+    },
+    {
+      "id": "dsk-024",
+      "prompt": "What is the name of the glitch racer Ralph befriends in Wreck-It Ralph?",
+      "answer": "Vanellope"
+    },
+    {
+      "id": "dsk-025",
+      "prompt": "What is the name of the mouse detective who solves cases on Baker Street?",
+      "answer": "Basil"
+    }
+  ]
+}
